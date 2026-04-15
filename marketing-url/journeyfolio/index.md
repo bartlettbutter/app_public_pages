@@ -1,0 +1,26 @@
+# Your entire trip, organized in one place.
+
+Journeyfolio takes the chaos out of travel planning. Build detailed itineraries with live weather forecasts and real-time flight tracking — all stored on your device, accessible even offline. One-time purchase, no subscriptions.
+
+## Why Journeyfolio?
+
+- **Day-by-Day Itineraries** — Create trips with destinations, dates, activities, notes, and timing for each day.
+- **Live Flight Tracking** — Add a flight number and get real-time status updates powered by FlightAware AeroAPI.
+- **Weather at a Glance** — See forecasts for every destination, powered by Apple WeatherKit with OpenWeatherMap as a fallback.
+- **Works Offline** — All your trip data lives on your device. Access your itinerary anytime, anywhere — no internet needed.
+
+## Everything in One Place
+
+- **Hotel & Accommodation Details** — Store hotel names, confirmation numbers, and check-in info alongside your itinerary.
+- **No Account Required** — Just download and start planning. Your data stays on your device.
+- **One-Time Purchase** — Pay once, use forever. No subscriptions, no ads.
+
+## Your Privacy, Protected
+
+Your trip information stays on your device. No accounts, no analytics, no ads. Only city names and flight numbers are sent to third-party services to fetch weather and flight data.
+
+Read our full [Privacy Policy](https://dqianli.github.io/app-public-pages/privacy-policies/journeyfolio/).
+
+## Need Help?
+
+Visit our [Support Page](https://dqianli.github.io/app-public-pages/support-url/journeyfolio/) or open an issue on [GitHub](https://github.com/dqianli/Trip_planner).
