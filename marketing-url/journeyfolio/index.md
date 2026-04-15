@@ -19,8 +19,8 @@ Journeyfolio takes the chaos out of travel planning. Build detailed itineraries 
 
 Your trip information stays on your device. No accounts, no analytics, no ads. Only city names and flight numbers are sent to third-party services to fetch weather and flight data.
 
-Read our full [Privacy Policy](https://dqianli.github.io/app-public-pages/privacy-policies/journeyfolio/).
+Read our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/journeyfolio/).
 
 ## Need Help?
 
-Visit our [Support Page](https://dqianli.github.io/app-public-pages/support-url/journeyfolio/) or open an issue on [GitHub](https://github.com/dqianli/Trip_planner).
+Visit our [Support Page](https://bartlettbutter.github.io/app_public_pages/support-url/journeyfolio/) or open an issue on [GitHub](https://github.com/dqianli/Trip_planner).

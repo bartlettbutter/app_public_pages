@@ -19,8 +19,8 @@ Barkpedia identifies any dog breed instantly using on-device machine learning. S
 
 Your photos never leave your device. No accounts, no analytics, no ads. Just you and the dogs.
 
-Read our full [Privacy Policy](https://dqianli.github.io/app-public-pages/privacy-policies/barkpedia/).
+Read our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/barkpedia/).
 
 ## Need Help?
 
-Visit our [Support Page](https://dqianli.github.io/app-public-pages/support-url/barkpedia/) or open an issue on [GitHub](https://github.com/dqianli/dog_recognizer).
+Visit our [Support Page](https://bartlettbutter.github.io/app_public_pages/support-url/barkpedia/) or open an issue on [GitHub](https://github.com/dqianli/dog_recognizer).
