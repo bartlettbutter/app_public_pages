@@ -23,4 +23,4 @@ Read our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages
 
 ## Need Help?
 
-Visit our [Support Page](https://bartlettbutter.github.io/app_public_pages/support-url/journeyfolio/) or open an issue on [GitHub](https://github.com/dqianli/Trip_planner).
+Visit our [Support Page](https://bartlettbutter.github.io/app_public_pages/support-url/journeyfolio/) or email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).

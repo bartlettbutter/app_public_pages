@@ -44,4 +44,4 @@ These features require an internet connection. Check that your device is connect
 
 ## Contact Us
 
-If your question isn't answered here, please open an issue on our [GitHub repository](https://github.com/dqianli/dog_recognizer) and we'll get back to you.
+If your question isn't answered here, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com) and we'll get back to you.

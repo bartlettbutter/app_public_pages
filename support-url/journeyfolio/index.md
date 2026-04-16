@@ -52,4 +52,4 @@ Trip data is stored locally on your device. If you deleted and reinstalled the a
 
 ## Contact Us
 
-If your question isn't answered here, please open an issue on our [GitHub repository](https://github.com/dqianli/Trip_planner) and we'll get back to you.
+If your question isn't answered here, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com) and we'll get back to you.
