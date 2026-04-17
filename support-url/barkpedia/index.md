@@ -10,7 +10,7 @@ Barkpedia uses an on-device machine learning model (CoreML) to analyze photos an
 
 ### Do I need an internet connection?
 
-Breed identification works entirely offline. An internet connection is only needed for the breed quiz (to load random dog images), breed encyclopedia content, and dog facts.
+Breed identification works entirely offline using on-device machine learning. Saved favorites are also available offline. An internet connection is needed for breed details, the breed quiz, and dog trivia.
 
 ### Why wasn't my dog's breed recognized correctly?
 
@@ -22,7 +22,7 @@ All scan history and favorites are stored locally on your device using Apple's S
 
 ### How do I delete my saved favorites?
 
-You can delete individual favorites by swiping left on them in the Favorites tab, or remove all data by deleting and reinstalling the app.
+You can delete individual favorites by swiping left on them in the Favorites tab.
 
 ### Is Barkpedia free?
 

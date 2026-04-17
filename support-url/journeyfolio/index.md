@@ -4,13 +4,9 @@ Welcome to the Journeyfolio support page. Below you'll find answers to common qu
 
 ## Frequently Asked Questions
 
-### What happened to Tripfolio?
-
-Tripfolio has been renamed to Journeyfolio. The app and all its features remain the same.
-
 ### Do I need an internet connection?
 
-Your trip data is stored locally and accessible offline. An internet connection is only needed for live weather forecasts and flight status updates.
+Your trip data is stored locally and accessible offline. An internet connection is only needed for live weather forecasts, flight status updates, and public holiday information.
 
 ### Where is my trip data stored?
 
@@ -48,7 +44,7 @@ Please make sure you're running the latest version of Journeyfolio from the App 
 
 ### My trip data seems to be missing
 
-Trip data is stored locally on your device. If you deleted and reinstalled the app, local data may have been removed. Make sure you're running the latest version from the App Store.
+Trip data is stored locally on your device and is preserved when you update to a new version. If the issue persists, try restarting the app or your device. If your data is still missing, please contact us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).
 
 ## Contact Us
 

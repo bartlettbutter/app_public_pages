@@ -2,7 +2,7 @@
 
 **Effective Date:** April 12, 2026
 
-Journeyfolio (formerly Tripfolio, "the App") is an iOS application that helps you plan and organize travel itineraries. Your privacy is important to us. This policy explains how the App handles your information.
+Journeyfolio ("the App") is an iOS application that helps you plan and organize travel itineraries. Your privacy is important to us. This policy explains how the App handles your information.
 
 ## Data We Collect
 
@@ -20,11 +20,11 @@ The App may use city names you provide for trip destinations to fetch weather in
 
 The App connects to the following third-party services solely to fetch content for display within the App:
 
-- **Apple WeatherKit** — provides weather forecasts for trip destinations. City names are sent to Apple's servers for geocoding and weather data retrieval. Apple's privacy policy applies: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)
-- **OpenWeatherMap** (https://openweathermap.org) — used as a fallback weather provider when Apple WeatherKit is unavailable. City names are sent to retrieve weather data.
+- **Apple WeatherKit** — the primary weather provider for trip destination forecasts. City names are sent to Apple's servers for geocoding and weather data retrieval. If WeatherKit is temporarily unavailable, **OpenWeatherMap** (https://openweathermap.org) is used as a fallback. Apple's privacy policy applies: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/). OpenWeatherMap's privacy policy applies: [https://openweather.co.uk/privacy-policy](https://openweather.co.uk/privacy-policy)
 - **FlightAware AeroAPI** (https://www.flightaware.com/aeroapi/) — provides live flight status and schedule information. Flight numbers and dates are sent to retrieve flight data.
+- **Nager.Date** (https://date.nager.at) — provides public holiday information for trip destinations. Country codes are sent to retrieve holiday data.
 
-These requests fetch content only. No personal data or device identifiers are sent to these services beyond the city names and flight numbers necessary to fulfill the request.
+These requests fetch content only. No personal data or device identifiers are sent to these services beyond the city names, flight numbers, and country codes necessary to fulfill the request.
 
 ## API Keys
 

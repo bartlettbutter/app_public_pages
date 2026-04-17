@@ -5,7 +5,7 @@ Barkpedia identifies any dog breed instantly using on-device machine learning. S
 ## Why Barkpedia?
 
 - **Instant Breed ID** — Point your camera at any dog and get a match in seconds, powered by CoreML. Everything runs on your device.
-- **Works Offline** — No Wi-Fi? No problem. Breed identification works anywhere.
+- **Breed ID Works Offline** — No Wi-Fi? No problem. Breed identification and saved favorites work anywhere.
 - **100% Free** — No in-app purchases, no subscriptions, no hidden costs.
 
 ## More to Explore
