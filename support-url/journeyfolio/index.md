@@ -14,11 +14,15 @@ All trip information — destinations, dates, activities, flight numbers, hotel 
 
 ### How do I get weather forecasts for my trip?
 
-Add a destination city to your trip and Journeyfolio will automatically fetch weather forecasts using Apple WeatherKit. If WeatherKit is unavailable, OpenWeatherMap is used as a fallback.
+Add a destination city to your trip and Journeyfolio will automatically fetch weather forecasts using [Apple Weather](https://weatherkit.apple.com/legal-attribution.html). If Apple Weather is unavailable, OpenWeatherMap is used as a fallback.
 
 ### How does flight tracking work?
 
 Add a flight number and date to your itinerary, and Journeyfolio will fetch live status and schedule information from FlightAware AeroAPI.
+
+### How do public holidays work?
+
+Journeyfolio automatically displays public holidays for your trip destinations using data from Nager.Date. An internet connection is required to fetch holiday information.
 
 ### How much does Journeyfolio cost?
 
@@ -32,7 +36,7 @@ Swipe left on the trip in your trip list to delete it. All associated activities
 
 ### Weather forecasts aren't loading
 
-Weather data requires an internet connection. Make sure your device is connected to Wi-Fi or cellular data. If the issue persists, check that the destination city name is spelled correctly.
+Weather data requires an internet connection. Make sure your device is connected to Wi-Fi or cellular data. If the issue persists, check that the destination city name is spelled correctly. Weather data is provided by [Apple Weather](https://weatherkit.apple.com/legal-attribution.html).
 
 ### Flight status isn't updating
 

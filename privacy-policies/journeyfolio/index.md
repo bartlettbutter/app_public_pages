@@ -14,14 +14,14 @@ All trip information you create — including destinations, dates, activities, f
 
 ## Location Data
 
-The App may use city names you provide for trip destinations to fetch weather information. These city names are sent to third-party weather services as described below. The App does not access your device's GPS location or track your movements.
+The App does not access your device's GPS location or track your movements. City names you provide for trip destinations are sent to Apple's servers and OpenWeatherMap to fetch weather forecasts. Country codes are sent to Nager.Date to retrieve public holiday information. No other location data is collected or transmitted.
 
 ## Third-Party Services
 
 The App connects to the following third-party services solely to fetch content for display within the App:
 
-- **Apple WeatherKit** — the primary weather provider for trip destination forecasts. City names are sent to Apple's servers for geocoding and weather data retrieval. If WeatherKit is temporarily unavailable, **OpenWeatherMap** (https://openweathermap.org) is used as a fallback. Apple's privacy policy applies: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/). OpenWeatherMap's privacy policy applies: [https://openweather.co.uk/privacy-policy](https://openweather.co.uk/privacy-policy)
-- **FlightAware AeroAPI** (https://www.flightaware.com/aeroapi/) — provides live flight status and schedule information. Flight numbers and dates are sent to retrieve flight data.
+- **[Apple Weather](https://weatherkit.apple.com/legal-attribution.html)** — the primary weather provider for trip destination forecasts. City names are sent to Apple's servers for geocoding and weather data retrieval. If Apple Weather is temporarily unavailable, **OpenWeatherMap** (https://openweathermap.org) is used as a fallback. Apple's privacy policy applies: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/). OpenWeatherMap's privacy policy applies: [https://openweather.co.uk/privacy-policy](https://openweather.co.uk/privacy-policy)
+- **FlightAware AeroAPI** (https://www.flightaware.com/aeroapi/) — provides live flight status and schedule information. Flight numbers and dates are sent to retrieve flight data. FlightAware's privacy policy applies: [https://www.flightaware.com/legal/privacy/](https://www.flightaware.com/legal/privacy/)
 - **Nager.Date** (https://date.nager.at) — provides public holiday information for trip destinations. Country codes are sent to retrieve holiday data.
 
 These requests fetch content only. No personal data or device identifiers are sent to these services beyond the city names, flight numbers, and country codes necessary to fulfill the request.
