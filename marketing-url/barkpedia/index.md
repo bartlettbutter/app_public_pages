@@ -10,7 +10,7 @@ Barkpedia identifies any dog breed instantly using on-device machine learning. S
 
 ## More to Explore
 
-- **Breed Encyclopedia** — Browse a comprehensive library of dog breeds with photos, temperament details, and key characteristics.
+- **Breed Details** — Get detailed profiles with photos, temperament, and key characteristics for any breed you scan.
 - **Favorites** — Save your scan results to revisit later. All stored locally on your device.
 - **Breed Quiz** — Test your dog breed knowledge with a fun photo quiz.
 - **Dog Facts** — Discover interesting trivia and fun facts about dogs.

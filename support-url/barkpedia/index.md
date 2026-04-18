@@ -24,6 +24,10 @@ All scan history and favorites are stored locally on your device using Apple's S
 
 You can delete individual favorites by swiping left on them in the Favorites tab.
 
+### How do the Quiz and Trivia games work?
+
+Both games require an internet connection. The Breed Quiz shows you a dog photo and asks you to guess the breed from four choices. Dog Trivia presents true-or-false statements about dogs. Each round is 10 questions, and you'll earn a reward title based on your score.
+
 ### Is Barkpedia free?
 
 Yes, Barkpedia is completely free with no in-app purchases and no ads.
