@@ -13,13 +13,20 @@ ETFWise surfaces daily ETF recommendations across seven categories — Major Ind
 > "Index funds are the only rational alternative for almost all mutual fund investors."
 > — Burton Malkiel, *A Random Walk Down Wall Street*
 
-ETFs give you instant diversification, full transparency, and lower fees than most actively managed funds — all in a single trade.
+- **Instant Diversification** — One trade, hundreds of stocks. No need to pick individual winners.
+- **Lower Risk** — Built-in diversification smooths out single-stock volatility.
+- **Full Transparency** — Holdings disclosed daily, so you always know what you own.
+- **Lower Fees** — Cheaper than most actively managed funds, keeping more of your returns.
+
+ETFs give you broad market exposure with simplicity, transparency, and cost efficiency — all in a single trade.
 
 ## Why ETFWise?
 
 - **Daily Picks** — Curated ETF recommendations refreshed every day at 5:00 AM, pinned for the full day so your list stays stable.
+- **Broad Coverage** — Over 200 ETFs across indexes, sectors, bonds, international, commodities, thematic trends, and dividend strategies — all in one place.
+- **Sentiment & News** — Market mood and headlines that move prices, scored and summarized so you can act fast.
+- **On-Device AI** — Private, offline analysis powered by a local LLM. No data leaves your device.
 - **Live Data** — Real-time prices and daily changes via Finnhub, with AUM updates from Yahoo Finance, refreshing every 5 minutes.
-- **Broad Coverage** — Over 100 ETFs across indexes, sectors, bonds, international, commodities, thematic trends, and dividend strategies.
 - **Works Without an API Key** — Enter a free Finnhub key for live data, or skip and explore with built-in mock data.
 
 ## Deep ETF Analysis

@@ -6,7 +6,7 @@ Welcome to the ETFWise support page. Below you'll find answers to common questio
 
 ### How do the daily recommendations work?
 
-ETFWise surfaces curated ETF recommendations across seven categories: Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend. The recommended list is pinned once per "recommendation day," which runs from 5:00 AM to 4:59 AM the next day. Within that window, the list and its order stay fixed — only live data (prices, AUM, sentiment) refreshes automatically every 5 minutes.
+ETFWise surfaces curated ETF recommendations across seven categories: Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend. When you tap "View Today's Picks," the app first ranks all 200+ catalog ETFs by Assets Under Management (AUM) to determine which ones to show. The top 3 per section appear on the main screen with full live data. Tap "See More" on any section to browse subcategories (e.g., Technology, Health Care, Energy within Sector). The recommended list is pinned once per "recommendation day," which runs from 5:00 AM to 4:59 AM the next day. Within that window, the list stays fixed — only live data (prices, AUM, sentiment) refreshes automatically every 5 minutes.
 
 ### Do I need an internet connection?
 
