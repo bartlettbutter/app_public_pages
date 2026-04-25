@@ -1,6 +1,19 @@
 # Smarter ETF insights, every day.
 
+> "Don't look for the needle in the haystack. Just buy the haystack."
+> — John C. Bogle, Vanguard founder
+
 ETFWise surfaces daily ETF recommendations across seven categories — Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend — with live prices, news sentiment, prediction markets, and on-device AI analysis. No subscriptions, no ads.
+
+## Why ETFs?
+
+> "A low-cost index fund is the most sensible equity investment for the great majority of investors."
+> — Warren Buffett, 2016 Berkshire Hathaway Shareholder Letter
+
+> "Index funds are the only rational alternative for almost all mutual fund investors."
+> — Burton Malkiel, *A Random Walk Down Wall Street*
+
+ETFs give you instant diversification, full transparency, and lower fees than most actively managed funds — all in a single trade.
 
 ## Why ETFWise?
 
