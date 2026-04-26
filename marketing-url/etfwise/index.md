@@ -3,15 +3,15 @@
 > "Don't look for the needle in the haystack. Just buy the haystack."
 > — John C. Bogle, Vanguard founder
 
-ETFWise surfaces daily ETF recommendations across seven categories — Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend — with live prices, news sentiment, prediction markets, and on-device AI analysis. No subscriptions, no ads.
-
-## Why ETFs?
-
 > "A low-cost index fund is the most sensible equity investment for the great majority of investors."
 > — Warren Buffett, 2016 Berkshire Hathaway Shareholder Letter
 
 > "Index funds are the only rational alternative for almost all mutual fund investors."
 > — Burton Malkiel, *A Random Walk Down Wall Street*
+
+ETFWise surfaces daily ETF recommendations across seven categories — Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend — with live prices, news sentiment, prediction markets, and on-device AI analysis. No subscriptions, no ads.
+
+## Why ETFs?
 
 - **Instant Diversification** — One trade, hundreds of stocks. No need to pick individual winners.
 - **Lower Risk** — Built-in diversification smooths out single-stock volatility.
@@ -44,7 +44,7 @@ Each ETF detail page shows up to ten sections of data:
 
 ## On-Device AI
 
-ETFWise includes Google's Gemma 3 270M model (~290 MB), running entirely on your device via llama.cpp. No API key or internet connection needed for AI analysis. The model generates context-rich bull and risk cases informed by price, returns, sentiment, prediction markets, and recent news.
+ETFWise includes a lightweight on-device AI model that runs entirely on your phone. No API key or internet connection needed for AI analysis. The model generates context-rich bull and risk cases informed by price, returns, sentiment, prediction markets, and recent news.
 
 ## Your Privacy, Protected
 
