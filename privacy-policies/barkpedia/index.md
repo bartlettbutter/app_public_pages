@@ -1,5 +1,3 @@
-# Barkpedia — Privacy Policy
-
 **Effective Date:** April 11, 2026
 
 Barkpedia ("the App") is a free iOS application that identifies dog breeds from photos. Your privacy is important to us. This policy explains how the App handles your information.

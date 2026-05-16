@@ -1,4 +1,11 @@
+# Jekyll configuration for the Barkpedia privacy policy page.
+# Fields used by _layouts/default.html:
+#   title       — App name shown in the header and browser tab
+#   description — Page type label displayed below the icon (e.g. "Privacy Policy")
+#   icon        — Filename of the app icon image (relative to this folder)
+#   url         — Canonical URL for this page on GitHub Pages
 theme: minima
-title: Barkpedia — Privacy Policy
-description: "Privacy policy for Barkpedia, a free iOS dog breed identification app. No data collection, no accounts, no tracking."
+title: Barkpedia
+description: "Privacy Policy"
 url: "https://bartlettbutter.github.io/app_public_pages/privacy-policies/barkpedia"
+icon: "icon_Barkpedia.png"

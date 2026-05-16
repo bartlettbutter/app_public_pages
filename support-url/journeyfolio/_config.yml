@@ -1,4 +1,11 @@
+# Jekyll configuration for the Journeyfolio support page.
+# Fields used by _layouts/default.html:
+#   title       — App name shown in the header and browser tab
+#   description — Page type label displayed below the icon (e.g. "Support")
+#   icon        — Filename of the app icon image (relative to this folder)
+#   url         — Canonical URL for this page on GitHub Pages
 theme: minima
-title: Journeyfolio — Support
-description: "Get help with Journeyfolio, the iOS travel planning app. FAQs, troubleshooting, and contact info."
+title: Journeyfolio
+description: "Support"
 url: "https://bartlettbutter.github.io/app_public_pages/support-url/journeyfolio"
+icon: "icon_Journeyfolio.png"

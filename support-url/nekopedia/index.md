@@ -1,5 +1,3 @@
-# Nekopedia — Support
-
 Welcome to the Nekopedia support page. Below you'll find answers to common questions and ways to get help.
 
 ## Frequently Asked Questions

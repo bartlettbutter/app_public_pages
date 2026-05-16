@@ -1,4 +1,11 @@
+# Jekyll configuration for the Nekopedia support page.
+# Fields used by _layouts/default.html:
+#   title       — App name shown in the header and browser tab
+#   description — Page type label displayed below the icon (e.g. "Support")
+#   icon        — Filename of the app icon image (relative to this folder)
+#   url         — Canonical URL for this page on GitHub Pages
 theme: minima
-title: Nekopedia — Support
-description: "Get help with Nekopedia, the free iOS cat breed identification app. FAQs, troubleshooting, and contact info."
+title: Nekopedia
+description: "Support"
 url: "https://bartlettbutter.github.io/app_public_pages/support-url/nekopedia"
+icon: "icon_Nekopedia.png"

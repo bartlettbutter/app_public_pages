@@ -1,4 +1,11 @@
+# Jekyll configuration for the ETFWise marketing page.
+# Fields used by _layouts/default.html:
+#   title       — App name shown in the header and browser tab
+#   description — Short tagline displayed below the icon
+#   icon        — Filename of the app icon image (relative to this folder)
+#   url         — Canonical URL for this page on GitHub Pages
 theme: minima
 title: ETFWise
-description: "Smarter ETF insights, every day. ETFWise is an iOS app that surfaces daily ETF recommendations across seven categories with live data, news sentiment, prediction markets, and on-device AI analysis."
+description: "Smarter ETF insights, every day. Daily recommendations with live data, sentiment, and on-device AI."
 url: "https://bartlettbutter.github.io/app_public_pages/marketing-url/etfwise"
+icon: "icon_ETFWise.png"

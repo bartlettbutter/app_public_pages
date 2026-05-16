@@ -1,5 +1,3 @@
-# Barkpedia — Support
-
 Welcome to the Barkpedia support page. Below you'll find answers to common questions and ways to get help.
 
 ## Frequently Asked Questions

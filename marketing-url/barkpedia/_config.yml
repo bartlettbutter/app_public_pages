@@ -1,4 +1,11 @@
+# Jekyll configuration for the Barkpedia marketing page.
+# Fields used by _layouts/default.html:
+#   title       — App name shown in the header and browser tab
+#   description — Short tagline displayed below the icon
+#   icon        — Filename of the app icon image (relative to this folder)
+#   url         — Canonical URL for this page on GitHub Pages
 theme: minima
 title: Barkpedia
-description: "Identify any dog breed instantly from a photo. Barkpedia is a free iOS app powered by on-device machine learning — no internet required."
+description: "Identify any dog breed instantly from a photo. Free, offline, powered by on-device ML."
 url: "https://bartlettbutter.github.io/app_public_pages/marketing-url/barkpedia"
+icon: "icon_Barkpedia.png"

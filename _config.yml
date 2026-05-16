@@ -1,2 +1,6 @@
+# Root-level Jekyll configuration for the app_public_pages repository.
+# This file exists for GitHub Pages compatibility but is not directly used —
+# each sub-site (marketing-url/*, privacy-policies/*, support-url/*) has its
+# own _config.yml that overrides these values.
 title: ""
 description: ""
