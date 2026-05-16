@@ -11,7 +11,7 @@ Welcome to the Barkpedia support page. Below you'll find answers to common quest
 
 ### How does breed identification work?
 
-Barkpedia uses an on-device machine learning model (CoreML) to analyze photos and identify dog breeds. All processing happens locally on your device — your photos are never uploaded anywhere.
+Barkpedia uses on-device machine learning to analyze photos and identify dog breeds. All processing happens locally on your device — your photos are never uploaded anywhere.
 
 ### Do I need an internet connection?
 
@@ -23,7 +23,7 @@ The model works best with clear, well-lit photos where the dog is the main subje
 
 ### Where is my data stored?
 
-All scan history and favorites are stored locally on your device using Apple's SwiftData framework. Nothing is sent to external servers.
+All scan history and favorites are stored locally on your device. Nothing is sent to external servers.
 
 ### How do I delete my saved favorites?
 

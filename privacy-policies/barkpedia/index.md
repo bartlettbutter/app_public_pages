@@ -15,19 +15,20 @@ We do not collect, store, or transmit any personal data from you. The App has no
 
 ## Photos
 
-Photos you take or select are processed entirely on your device using on-device machine learning (CoreML). Your photos are never uploaded to any server.
+Photos you take or select are processed entirely on your device using on-device machine learning. Your photos are never uploaded to any server.
 
 ## Scan History
 
-Breed scan results you save to Favorites are stored locally on your device using Apple's SwiftData framework. This data never leaves your device.
+Breed scan results you save to Favorites are stored locally on your device. This data never leaves your device.
 
 ## Third-Party Services
 
-The App connects to the following third-party APIs solely to fetch content for display:
+The App connects to the following third-party services solely to fetch content for display:
 
-- **Dog CEO API** (https://dog.ceo/dog-api/) — provides random dog images for the breed quiz.
-- **The Dog API** (https://thedogapi.com) — provides breed information and images.
-- **dogapi.dog** (https://dogapi.dog) — provides dog facts for the trivia feature.
+- **Dog CEO API** — provides dog images for the breed quiz.
+- **The Dog API** — provides breed information and images.
+- **dogapi.dog** — provides dog facts for the trivia feature.
+- **Wikipedia API** — provides fallback breed images when other sources are unavailable.
 
 These requests fetch content only. No personal data or device identifiers are sent to these services.
 
