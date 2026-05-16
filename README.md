@@ -10,6 +10,8 @@ Free dog breed identifier. Point your camera at any dog and get a breed match in
 
 **Features:** Instant breed ID, breed details with photos and temperament, favorites, breed quiz, dog facts trivia.
 
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/idXXXXXXXXXX)
+
 - [Marketing](https://bartlettbutter.github.io/app_public_pages/marketing-url/barkpedia/)
 - [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/barkpedia/)
 - [Support](https://bartlettbutter.github.io/app_public_pages/support-url/barkpedia/)
@@ -21,6 +23,8 @@ Free dog breed identifier. Point your camera at any dog and get a breed match in
 Daily ETF recommendations with live market data, news sentiment, prediction markets, and on-device AI analysis. No subscriptions, no ads.
 
 **Features:** Daily picks across 7 categories (Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, Dividend), 200+ ETFs, live prices, news sentiment, on-device AI analysis, prediction markets, analyst consensus, top holdings, fund performance, historical charts.
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/idXXXXXXXXXX)
 
 - [Marketing](https://bartlettbutter.github.io/app_public_pages/marketing-url/etfwise/)
 - [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/etfwise/)
@@ -34,6 +38,8 @@ Trip planner with day-by-day itineraries, live weather forecasts, real-time flig
 
 **Features:** Day-by-day itineraries, live flight tracking, weather forecasts, hotel and accommodation details, public holidays for destinations, works offline.
 
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/idXXXXXXXXXX)
+
 - [Marketing](https://bartlettbutter.github.io/app_public_pages/marketing-url/journeyfolio/)
 - [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/journeyfolio/)
 - [Support](https://bartlettbutter.github.io/app_public_pages/support-url/journeyfolio/)
@@ -46,6 +52,8 @@ Free cat breed identifier. Point your camera at any cat and get a breed match in
 
 **Features:** Instant breed ID, breed details with photos and temperament, favorites, breed quiz, cat trivia with reward titles.
 
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/idXXXXXXXXXX)
+
 - [Marketing](https://bartlettbutter.github.io/app_public_pages/marketing-url/nekopedia/)
 - [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/nekopedia/)
 - [Support](https://bartlettbutter.github.io/app_public_pages/support-url/nekopedia/)
@@ -57,6 +65,8 @@ Free cat breed identifier. Point your camera at any cat and get a breed match in
 Personalized weather forecasts with lifestyle indices, outfit recommendations, and a daily briefing — all tailored to your preferences. Free, no ads, no subscriptions.
 
 **Features:** 16 lifestyle indices (UV, SPF, flu risk, allergy, air quality, and more), outfit recommendations, today's briefing with plain-language action items, 7-day forecast, multi-location support.
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/idXXXXXXXXXX)
 
 - [Marketing](https://bartlettbutter.github.io/app_public_pages/marketing-url/solcast/)
 - [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/solcast/)
