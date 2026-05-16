@@ -1,3 +1,10 @@
+---
+layout: default
+title: Barkpedia
+app_icon: /app_public_pages/support-url/barkpedia/icon_Barkpedia.png
+app_description: "Support"
+---
+
 Welcome to the Barkpedia support page. Below you'll find answers to common questions and ways to get help.
 
 ## Frequently Asked Questions

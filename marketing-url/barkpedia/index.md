@@ -1,3 +1,10 @@
+---
+layout: default
+title: Barkpedia
+app_icon: /app_public_pages/marketing-url/barkpedia/icon_Barkpedia.png
+app_description: "Identify any dog breed instantly from a photo. Free, offline, powered by on-device ML."
+---
+
 # What breed is that dog? Just point your camera.
 
 Barkpedia identifies any dog breed instantly using on-device machine learning. Snap a photo or pick one from your library — no internet needed, no account required, and completely free.

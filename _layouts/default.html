@@ -1,15 +1,15 @@
 <!--
   default.html — Shared layout for all app public pages (marketing, privacy, support).
 
-  This layout is used by all Jekyll sub-sites in this repository. Each sub-site
-  provides its own _config.yml with the following fields consumed here:
-    - site.title       → App name displayed in the header and page <title>
-    - site.description → Short tagline shown below the icon in the header
-    - site.icon        → Filename of the app icon (e.g. "icon_Barkpedia.png").
-                         If omitted, the icon header section is skipped entirely.
+  This layout is used by all pages in this GitHub Pages site. Each page's index.md
+  provides front matter with the following fields consumed here:
+    - page.title           → App name displayed in the header and page <title>
+    - page.app_description → Short tagline shown below the icon in the header
+    - page.app_icon        → Absolute path to the app icon PNG (e.g. "/app_public_pages/...").
+                             If omitted, the icon header section is skipped entirely.
 
   Page structure:
-    1. App Header  — Icon + app name + description (only rendered if site.icon is set)
+    1. App Header  — Icon + app name + description (only rendered if page.app_icon is set)
     2. Content     — Rendered markdown from the page's index.md
     3. Footer      — Copyright line with current year and app name
 
@@ -158,12 +158,12 @@
   </style>
 </head>
 <body>
-  <!-- App Header: only rendered when site.icon is defined in _config.yml -->
-  {% if site.icon %}
+  <!-- App Header: only rendered when page.app_icon is defined in front matter -->
+  {% if page.app_icon %}
   <div class="app-header">
-    <img src="{{ site.icon }}" alt="{{ site.title }} icon" class="app-icon">
-    <h1>{{ site.title }}</h1>
-    {% if site.description %}<p>{{ site.description }}</p>{% endif %}
+    <img src="{{ page.app_icon }}" alt="{{ page.title }} icon" class="app-icon">
+    <h1>{{ page.title }}</h1>
+    {% if page.app_description %}<p>{{ page.app_description }}</p>{% endif %}
   </div>
   {% endif %}
 
@@ -174,7 +174,7 @@
 
   <!-- Footer with dynamic year -->
   <div class="footer">
-    &copy; {{ 'now' | date: "%Y" }} {{ site.title }}
+    &copy; {{ 'now' | date: "%Y" }} {{ page.title }}
   </div>
 </body>
 </html>

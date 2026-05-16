@@ -1,3 +1,10 @@
+---
+layout: default
+title: ETFWise
+app_icon: /app_public_pages/support-url/etfwise/icon_ETFWise.png
+app_description: "Support"
+---
+
 Welcome to the ETFWise support page. Below you'll find answers to common questions and ways to get help.
 
 ## Frequently Asked Questions

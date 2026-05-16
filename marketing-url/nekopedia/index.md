@@ -1,3 +1,10 @@
+---
+layout: default
+title: Nekopedia
+app_icon: /app_public_pages/marketing-url/nekopedia/icon_Nekopedia.png
+app_description: "Identify any cat breed instantly from a photo. Free, offline, powered by on-device ML."
+---
+
 # What breed is that cat? Just point your camera.
 
 Nekopedia identifies any cat breed instantly using on-device machine learning. Snap a photo or pick one from your library — no internet needed, no account required, and completely free.

@@ -15,7 +15,7 @@ Public-facing pages for iOS apps, hosted on GitHub Pages. Each app has three pag
 
 ```
 app_public_pages/
-├── _config.yml                  # Root Jekyll config (placeholder, not used directly)
+├── _config.yml                  # Root Jekyll config (GitHub Pages reads only this one)
 ├── _layouts/
 │   └── default.html             # Shared layout for all pages
 ├── marketing-url/
@@ -36,24 +36,34 @@ app_public_pages/
 ```
 
 Each app folder contains:
-- `_config.yml` — Jekyll site configuration (title, description, icon, URL)
-- `index.md` — Page content in Markdown
+- `index.md` — Page content in Markdown with YAML front matter
 - `icon_<AppName>.png` — App icon displayed in the page header
 
-## Layout System
+## How It Works
 
-All pages share a single layout at `_layouts/default.html`. The layout reads configuration from each sub-site's `_config.yml`:
+This is a single GitHub Pages site built from the root `_config.yml`. Each `index.md` uses YAML front matter to specify its layout and page-specific variables:
 
-| Config Field | Purpose |
+```yaml
+---
+layout: default
+title: Barkpedia
+app_icon: /app_public_pages/marketing-url/barkpedia/icon_Barkpedia.png
+app_description: "Identify any dog breed instantly from a photo."
+---
+```
+
+### Front Matter Fields
+
+| Field | Purpose |
 |---|---|
+| `layout` | Always `default` — references `_layouts/default.html` |
 | `title` | App name — shown in the page header and browser tab |
-| `description` | Tagline (marketing) or page type label (privacy/support) — shown below the icon |
-| `icon` | Filename of the app icon PNG — displayed as an 80×80 rounded image in the header |
-| `url` | Canonical URL for the page on GitHub Pages |
+| `app_icon` | Absolute path to the icon PNG — displayed as an 80×80 rounded image |
+| `app_description` | Tagline (marketing) or page type label (privacy/support) — shown below the icon |
 
 ### Conditional Icon Header
 
-The icon header section only renders when `site.icon` is defined in `_config.yml`. If omitted, the page renders content directly without the branded header.
+The icon header section only renders when `app_icon` is defined in front matter. If omitted, the page renders content directly without the branded header.
 
 ### Page Content Conventions
 
@@ -75,17 +85,16 @@ For example:
 
 ## Local Preview
 
-Run any sub-site locally with Jekyll:
-
 ```bash
-jekyll serve -s marketing-url/barkpedia --layouts-path _layouts
+# From the repo root — serves the entire site
+jekyll serve
 ```
 
-Then open http://localhost:4000. Use `--port <number>` to run multiple pages simultaneously.
+Then open http://localhost:4000/app_public_pages/.
 
 ## Adding a New App
 
 1. Create folders: `marketing-url/<app>/`, `privacy-policies/<app>/`, `support-url/<app>/`
-2. Add `_config.yml` to each with `title`, `description`, `url`, and `icon` fields
-3. Add `index.md` with the page content (follow conventions above)
+2. Add `index.md` to each with front matter (`layout`, `title`, `app_icon`, `app_description`)
+3. Write the page content in Markdown (follow conventions above)
 4. Place the app icon as `icon_<AppName>.png` in each folder

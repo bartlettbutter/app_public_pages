@@ -1,3 +1,10 @@
+---
+layout: default
+title: Nekopedia
+app_icon: /app_public_pages/privacy-policies/nekopedia/icon_Nekopedia.png
+app_description: "Privacy Policy"
+---
+
 **Effective Date:** April 22, 2026
 
 Nekopedia ("the App") is a free iOS application that identifies cat breeds from photos. Your privacy is important to us. This policy explains how the App handles your information.

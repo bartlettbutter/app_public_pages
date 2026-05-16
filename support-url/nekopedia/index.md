@@ -1,3 +1,10 @@
+---
+layout: default
+title: Nekopedia
+app_icon: /app_public_pages/support-url/nekopedia/icon_Nekopedia.png
+app_description: "Support"
+---
+
 Welcome to the Nekopedia support page. Below you'll find answers to common questions and ways to get help.
 
 ## Frequently Asked Questions

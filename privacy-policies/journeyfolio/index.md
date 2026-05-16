@@ -1,3 +1,10 @@
+---
+layout: default
+title: Journeyfolio
+app_icon: /app_public_pages/privacy-policies/journeyfolio/icon_Journeyfolio.png
+app_description: "Privacy Policy"
+---
+
 **Effective Date:** April 12, 2026
 
 Journeyfolio ("the App") is an iOS application that helps you plan and organize travel itineraries. Your privacy is important to us. This policy explains how the App handles your information.

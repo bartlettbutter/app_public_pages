@@ -1,3 +1,10 @@
+---
+layout: default
+title: Journeyfolio
+app_icon: /app_public_pages/marketing-url/journeyfolio/icon_Journeyfolio.png
+app_description: "Plan, organize, and track your trips with live weather and flight tracking."
+---
+
 # Your entire trip, organized in one place.
 
 Journeyfolio takes the chaos out of travel planning. Build detailed itineraries with live weather forecasts powered by [Apple Weather](https://weatherkit.apple.com/legal-attribution.html) and real-time flight tracking — all stored on your device, accessible even offline. One-time purchase, no subscriptions.

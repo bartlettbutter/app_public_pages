@@ -1,3 +1,10 @@
+---
+layout: default
+title: ETFWise
+app_icon: /app_public_pages/marketing-url/etfwise/icon_ETFWise.png
+app_description: "Smarter ETF insights, every day. Daily recommendations with live data, sentiment, and on-device AI."
+---
+
 # Smarter ETF insights, every day.
 
 > "Don't look for the needle in the haystack. Just buy the haystack."
