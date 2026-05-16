@@ -29,12 +29,12 @@ ETFs give you broad market exposure with simplicity, transparency, and cost effi
 
 ## Why ETFWise?
 
-- **Daily Picks** — Curated ETF recommendations refreshed every day at 5:00 AM, pinned for the full day so your list stays stable.
+- **Daily Picks** — Curated ETF recommendations refreshed every day, pinned for the full day so your list stays stable.
 - **Broad Coverage** — Over 200 ETFs across indexes, sectors, bonds, international, commodities, thematic trends, and dividend strategies — all in one place.
 - **Sentiment & News** — Market mood and headlines that move prices, scored and summarized so you can act fast.
-- **On-Device AI** — Private, offline analysis powered by a local LLM. No data leaves your device.
-- **Live Data** — Real-time prices and daily changes via Finnhub, with AUM updates from Yahoo Finance, refreshing every 5 minutes.
-- **Works Without an API Key** — Enter a free Finnhub key for live data, or skip and explore with built-in mock data.
+- **On-Device AI** — Private, offline analysis powered by a local language model. No data leaves your device.
+- **Live Data** — Real-time prices, daily changes, and fund data refreshing every 5 minutes.
+- **Works Without an API Key** — Enter a free Finnhub key for live data, or skip and explore with built-in sample data.
 
 ## Deep ETF Analysis
 
@@ -42,16 +42,16 @@ Each ETF detail page shows up to ten sections of data:
 
 - **Price & Stats** — Current price, daily change, expense ratio, AUM, and tracking index.
 - **Fund Introduction** — A concise overview of the ETF's history and purpose.
-- **Top Holdings & Sector Weights** — The fund's top 10 holdings and sector allocation from Yahoo Finance.
+- **Top Holdings & Sector Weights** — The fund's top 10 holdings and sector allocation.
 - **Fund Performance** — Trailing returns, annual returns, best/worst year, and up/down year counts.
 - **News Sentiment** — A 7-day sentiment score derived from financial news, with the 3 most recent headlines.
-- **Bull & Risk Cases** — AI-generated analysis powered by an on-device LLM, using all on-screen metrics as context.
-- **Prediction Markets** — Crowd-sourced probabilities from Polymarket's Finance section, filtered by relevance to each ETF.
-- **Analyst Consensus** — Buy/hold/sell ratings from Wall Street analysts via Finnhub.
+- **Bull & Risk Cases** — AI-generated analysis powered by an on-device language model, using all on-screen metrics as context.
+- **Prediction Markets** — Crowd-sourced probabilities filtered by relevance to each ETF.
+- **Analyst Consensus** — Buy/hold/sell ratings from Wall Street analysts.
 
 ## On-Device AI
 
-ETFWise includes a lightweight on-device AI model that runs entirely on your phone. No API key or internet connection needed for AI analysis. The model generates context-rich bull and risk cases informed by price, returns, sentiment, prediction markets, and recent news.
+ETFWise includes a lightweight on-device AI model that runs entirely on your phone. No internet connection needed for AI analysis. The model generates context-rich bull and risk cases informed by price, returns, sentiment, prediction markets, and recent news.
 
 ## Your Privacy, Protected
 
