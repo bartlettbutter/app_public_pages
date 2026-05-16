@@ -92,6 +92,28 @@ Free cat breed identifier using on-device machine learning. Point your camera at
 
 ---
 
+### Solcast
+
+Personalized weather forecasts with lifestyle indices, outfit recommendations, and a daily briefing — all tailored to your preferences. Free, no ads, no subscriptions.
+
+| | |
+|---|---|
+| **Price** | Free |
+| **Platform** | iOS |
+| **Privacy** | No data collection, no accounts, no analytics, no ads |
+| **Offline** | All recommendations computed on-device; internet needed for weather data |
+| **Third-Party Services** | Apple WeatherKit, Open-Meteo, Apple MapKit |
+| **Privacy Policy Date** | May 16, 2026 |
+
+**Features:** 16 lifestyle indices (UV, SPF, flu risk, allergy, air quality, and more), outfit recommendations based on weather and preferences, today's briefing with plain-language action items, 7-day forecast, multi-location support, configurable temperature sensitivity and dressing style.
+
+**Pages:**
+- [Marketing](https://bartlettbutter.github.io/app_public_pages/marketing-url/solcast/)
+- [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/solcast/)
+- [Support](https://bartlettbutter.github.io/app_public_pages/support-url/solcast/)
+
+---
+
 ## Repository Structure
 
 ```
@@ -103,17 +125,20 @@ app_public_pages/
 │   ├── barkpedia/               # Marketing landing page
 │   ├── etfwise/
 │   ├── journeyfolio/
-│   └── nekopedia/
+│   ├── nekopedia/
+│   └── solcast/
 ├── privacy-policies/
 │   ├── barkpedia/               # Privacy policy page
 │   ├── etfwise/
 │   ├── journeyfolio/
-│   └── nekopedia/
+│   ├── nekopedia/
+│   └── solcast/
 └── support-url/
     ├── barkpedia/               # Support / FAQ page
     ├── etfwise/
     ├── journeyfolio/
-    └── nekopedia/
+    ├── nekopedia/
+    └── solcast/
 ```
 
 Each app folder contains:
