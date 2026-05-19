@@ -11,7 +11,7 @@ Welcome to the Barkpedia support page. Below you'll find answers to common quest
 
 ### How does breed identification work?
 
-Barkpedia uses on-device machine learning to analyze photos and identify dog breeds. All processing happens locally on your device — your photos are never uploaded anywhere.
+Barkpedia uses on-device machine learning to analyze photos and identify dog breeds. All processing happens locally on your device, and your photos are never uploaded anywhere.
 
 ### Do I need an internet connection?
 
@@ -37,6 +37,10 @@ Both games require an internet connection. The Breed Quiz shows you a dog photo 
 
 Yes, Barkpedia is completely free with no in-app purchases and no ads.
 
+### Is my data private?
+
+Yes. Your photos never leave your device and no personal data is collected. See our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/barkpedia/) for details.
+
 ## Troubleshooting
 
 ### The camera isn't working
@@ -50,6 +54,11 @@ Please make sure you're running the latest version of Barkpedia from the App Sto
 ### Breed info or quiz images aren't loading
 
 These features require an internet connection. Check that your device is connected to Wi-Fi or cellular data.
+
+## Compatibility
+
+- iOS 16.0 or later
+- iPhone
 
 ## Contact Us
 

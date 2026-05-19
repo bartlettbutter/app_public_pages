@@ -9,7 +9,7 @@ app_description: "Privacy Policy"
 
 Solcast ("the App") is a free iOS application that provides personalized weather forecasts, lifestyle indices, and outfit recommendations. Your privacy is important to us. This policy explains how the App handles your information.
 
-## Information We Collect
+## Data We Collect
 
 We do not collect, store, or transmit any personal data from you. The App has no user accounts, no analytics, no tracking, and no advertising.
 
@@ -19,7 +19,7 @@ We do not collect, store, or transmit any personal data from you. The App has no
 
 The App uses your device's location solely to retrieve weather forecasts for your area. Location coordinates are sent only to the weather services listed below. Your location is never stored on any server we control.
 
-Saved locations are stored locally on your device and are never transmitted externally except as coordinates in weather API requests.
+Saved locations are stored locally on your device and are never transmitted externally except as coordinates in weather data requests.
 
 ### User Preferences
 
@@ -43,9 +43,9 @@ The App connects to the following third-party services solely to fetch weather a
 
 | Service | Purpose | Data Sent | Privacy Info |
 |---------|---------|-----------|--------------|
-| Apple WeatherKit | Weather forecasts | Geographic coordinates only | [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) |
+| Apple Weather | Weather forecasts | Geographic coordinates only | [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) |
 | Open-Meteo | Fallback weather, air quality, pollen | Geographic coordinates only | [Open-Meteo's Terms](https://open-meteo.com/en/terms) |
-| Apple MapKit | Location search and reverse geocoding | Geographic coordinates only | [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) |
+| Apple Maps | Location search and reverse geocoding | Geographic coordinates only | [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) |
 
 No personal data, device identifiers, or user preferences are sent to these services.
 
@@ -65,6 +65,6 @@ The App does not knowingly collect any information from anyone, including childr
 
 If we update this policy, the revised version will be posted on this page with an updated effective date.
 
-## Contact
+## Contact Us
 
 If you have questions about this privacy policy, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).

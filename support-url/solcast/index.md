@@ -11,7 +11,7 @@ Welcome to the Solcast support page. Below you'll find answers to common questio
 
 ### What does Solcast do?
 
-Solcast is a personalized weather companion that translates real-time weather data into actionable lifestyle guidance. It provides 16 lifestyle indices, outfit recommendations, and a daily briefing — all tailored to your preferences. It tells you what to wear, what to watch out for, and how to plan your day.
+Solcast is a personalized weather companion that translates real-time weather data into actionable lifestyle guidance. It provides 16 lifestyle indices, outfit recommendations, and a daily briefing, all tailored to your preferences. It tells you what to wear, what to watch out for, and how to plan your day.
 
 ### Who is Solcast for?
 
@@ -44,7 +44,7 @@ Open Settings to configure 10 options across three sections:
 - **Your Style** — dressing style, outdoor exercise preference
 - **Your Household** — kids, pets, cars
 
-Changes take effect instantly on the dashboard with no network call needed.
+Changes take effect instantly on the dashboard without needing to reload or reconnect.
 
 ### How many locations can I save?
 
@@ -54,7 +54,7 @@ You can save up to 10 locations and switch between them using the location picke
 
 ### Why does Solcast need my location?
 
-Solcast requests **Location (When In Use)** permission to fetch accurate weather forecasts, air quality, and pollen data for your current area. Your coordinates are sent only to weather services (Apple WeatherKit and Open-Meteo) and are never stored on any server. You can also add locations manually without granting location access.
+Solcast requests **Location (When In Use)** permission to fetch accurate weather forecasts, air quality, and pollen data for your current area. Your coordinates are sent only to weather services (Apple Weather and Open-Meteo) and are never stored on any server. You can also add locations manually without granting location access.
 
 ### Does Solcast access my camera, contacts, or other data?
 
@@ -72,25 +72,17 @@ Solcast uses the following services to deliver weather data:
 
 | Service | Role |
 |---------|------|
-| **Apple WeatherKit** | Primary weather source — temperature, wind, UV, precipitation, sunrise/sunset, and more |
+| **Apple Weather** | Primary weather source: temperature, wind, UV, precipitation, sunrise/sunset, and more |
 | **Open-Meteo** | Fallback weather source, plus exclusive provider of air quality (AQI, PM2.5, PM10) and pollen forecasts |
-| **Apple MapKit** | Location search and city name display |
+| **Apple Maps** | Location search and city name display |
 
 All recommendation logic (16 lifestyle indices, outfit suggestions, daily briefing) runs entirely on your device with no external service or AI involved.
-
-## Device Compatibility
-
-Solcast requires **iOS 18.0 or later** and is compatible with all iPhones that support iOS 18.
-
-## Regional Availability
-
-Solcast works worldwide with no regional differences in features or content. Weather data coverage depends on Apple WeatherKit and Open-Meteo, both of which provide global coverage. Air quality and pollen data availability may vary by region — the app will simply hide indices when data is unavailable for your area.
 
 ## Troubleshooting
 
 ### Weather data isn't loading
 
-Check that your device is connected to Wi-Fi or cellular data. Try pulling down on the dashboard to refresh. If the problem persists, the weather service may be temporarily unavailable — try again in a few minutes.
+Check that your device is connected to Wi-Fi or cellular data. Try pulling down on the dashboard to refresh. If the problem persists, the weather service may be temporarily unavailable. Try again in a few minutes.
 
 ### Location isn't being detected
 
@@ -100,6 +92,15 @@ Make sure you've granted Solcast location access in **Settings > Privacy & Secur
 
 Please make sure you're running the latest version of Solcast from the App Store. If the problem continues, try restarting your device. If crashes persist, please contact us with your device model and iOS version.
 
+## Compatibility
+
+- iOS 18.0 or later
+- iPhone
+
+## Regional Availability
+
+Solcast works worldwide with no regional differences in features or content. Weather data coverage depends on Apple Weather and Open-Meteo, both of which provide global coverage. Air quality and pollen data availability may vary by region. The app will simply hide indices when data is unavailable for your area.
+
 ## Contact Us
 
-If your question isn't answered here, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com) and we'll get back to you as soon as possible.
+If your question isn't answered here, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com) and we'll get back to you.

@@ -15,7 +15,7 @@ Journeyfolio is a one-time purchase on the App Store. There are no subscriptions
 
 ### Where is my trip data stored?
 
-All trip information — destinations, dates, activities, flight numbers, hotel details, confirmation numbers, and notes — is stored locally on your device. Nothing is uploaded to external servers. There is no cloud sync or backup.
+All trip information, including destinations, dates, activities, flight numbers, hotel details, confirmation numbers, and notes, is stored locally on your device. Nothing is uploaded to external servers. There is no cloud sync or backup.
 
 ### Do I need an internet connection?
 
@@ -35,7 +35,7 @@ Add a destination city and Journeyfolio will automatically fetch current conditi
 
 ### How does flight tracking work?
 
-Add a flight activity and enter your flight number and departure date. Tap "Verify Flight" to look up the schedule — Journeyfolio will auto-fill the route, airline, and departure/arrival times (displayed in each airport's local timezone). For flights within 24 hours, live status badges (On Time, Delayed, Cancelled, Landed, In Air) appear on your flight card.
+Add a flight activity and enter your flight number and departure date. Tap "Verify Flight" to look up the schedule. Journeyfolio will auto-fill the route, airline, and departure/arrival times (displayed in each airport's local timezone). For flights within 24 hours, live status badges (On Time, Delayed, Cancelled, Landed, In Air) appear on your flight card.
 
 Schedule verification is available for flights up to 12 months in the future and 3 months in the past. For dates outside this range, you can enter flight details manually.
 
@@ -75,7 +75,11 @@ Swipe left on a trip or activity to delete it. A confirmation prompt will appear
 
 ### What does the destination input support?
 
-You can type a city name (e.g., "Tokyo"), a country name (e.g., "France" — resolves to Paris), or even a misspelled name. Journeyfolio uses smart matching to resolve your input to the correct destination.
+You can type a city name (e.g., "Tokyo"), a country name (e.g., "France", which resolves to Paris), or even a misspelled name. Journeyfolio uses smart matching to resolve your input to the correct destination.
+
+### Is my data private?
+
+Yes. All trip data stays on your device. No personal data is collected or transmitted. See our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/journeyfolio/) for details.
 
 ## Troubleshooting
 
@@ -108,13 +112,13 @@ Make sure you're running the latest version of Journeyfolio from the App Store. 
 
 ### My trip data seems to be missing
 
-Trip data is stored locally and preserved across app updates. Try restarting the app or your device. Note that uninstalling the app will permanently delete all trip data — there is no cloud backup. If your data is still missing after a restart, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).
+Trip data is stored locally and preserved across app updates. Try restarting the app or your device. Note that uninstalling the app will permanently delete all trip data since there is no cloud backup. If your data is still missing after a restart, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).
 
-## Requirements
+## Compatibility
 
 - iOS 18.0 or later
 - iPhone
 
 ## Contact Us
 
-If your question isn't answered here, email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com) and we'll get back to you.
+If your question isn't answered here, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com) and we'll get back to you.

@@ -7,11 +7,11 @@ app_description: "Identify any cat breed instantly from a photo. Free, offline, 
 
 # What breed is that cat? Just point your camera.
 
-Nekopedia identifies any cat breed instantly using on-device machine learning. Snap a photo or pick one from your library — no internet needed, no account required, and completely free.
+Nekopedia identifies any cat breed instantly using on-device machine learning. Snap a photo or pick one from your library. No internet needed, no account required, and completely free.
 
 ## Why Nekopedia?
 
-- **Instant Breed ID** — Point your camera at any cat and get a match in seconds, powered by CoreML. Everything runs on your device.
+- **Instant Breed ID** — Point your camera at any cat and get a match in seconds, powered by on-device machine learning. Everything runs on your device.
 - **Breed ID Works Offline** — No Wi-Fi? No problem. Breed identification and saved favorites work anywhere.
 - **100% Free** — No in-app purchases, no subscriptions, no hidden costs.
 
@@ -22,11 +22,21 @@ Nekopedia identifies any cat breed instantly using on-device machine learning. S
 - **Breed Quiz** — Test your cat breed knowledge with a fun photo quiz.
 - **Cat Trivia** — Challenge yourself with true-or-false cat facts and earn reward titles.
 
+## How It Works
+
+1. **Open the app** — no account needed
+2. **Point your camera** at any cat (or pick a photo from your library)
+3. **Get instant results** — breed name, confidence score, and details
+
 ## Your Privacy, Protected
 
 Your photos never leave your device. No accounts, no analytics, no ads. Just you and the cats.
 
 Read our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/nekopedia/).
+
+## Compatibility
+
+Nekopedia requires iOS 16.0 or later.
 
 ## Need Help?
 

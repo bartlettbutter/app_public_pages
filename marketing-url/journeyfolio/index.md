@@ -7,14 +7,14 @@ app_description: "Plan, organize, and track your trips with live weather and fli
 
 # Your entire trip, organized in one place.
 
-Journeyfolio takes the chaos out of travel planning. Build detailed itineraries, check live weather forecasts powered by [Apple Weather](https://weatherkit.apple.com/legal-attribution.html), and track your flights in real time — all stored on your device and accessible offline.
+Journeyfolio takes the chaos out of travel planning. Build detailed itineraries, check live weather forecasts powered by [Apple Weather](https://weatherkit.apple.com/legal-attribution.html), and track your flights in real time. Everything is stored on your device and accessible offline.
 
 ## Plan Your Way
 
 - **Day-by-Day Itineraries** — Organize destinations, activities, notes, and timing for each day of your trip. Filter by date to focus on what's happening today.
 - **Multi-City Trips** — Plan trips across multiple cities. Each destination gets its own itinerary, weather forecast, date range, and public holidays.
 - **Single or Multi-Day Activities** — Hotels, car rentals, and other activities can span multiple days and appear on each relevant date.
-- **Works Offline** — All your trip data lives on your device. Access your itinerary anytime, anywhere — no internet needed.
+- **Works Offline** — All your trip data lives on your device. Access your itinerary anytime, anywhere, with no internet needed.
 
 ## Stay Informed
 
@@ -48,7 +48,22 @@ Track every detail of your trip in one place across seven activity categories:
 - **One-Time Purchase** — Pay once, use forever. No subscriptions, no ads.
 - **Privacy First** — Your data stays on your device. No analytics, no tracking, no data collection.
 
+## How It Works
+
+1. **Create a trip** — add a name and your destination city
+2. **Build your itinerary** — add flights, hotels, restaurants, and activities day by day
+3. **Stay informed** — check live weather, verify flights, and see public holidays
+4. **Travel with confidence** — access everything offline, anytime
+
+## Your Privacy, Protected
+
+All trip data stays on your device. No accounts, no analytics, no ads. Nothing is uploaded to external servers.
+
 Read our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/journeyfolio/).
+
+## Compatibility
+
+Journeyfolio requires iOS 18.0 or later.
 
 ## Need Help?
 

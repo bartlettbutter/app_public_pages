@@ -7,7 +7,7 @@ app_description: "Identify any dog breed instantly from a photo. Free, offline, 
 
 # What breed is that dog? Just point your camera.
 
-Barkpedia identifies any dog breed instantly using on-device machine learning. Snap a photo or pick one from your library — no internet needed, no account required, and completely free.
+Barkpedia identifies any dog breed instantly using on-device machine learning. Snap a photo or pick one from your library. No internet needed, no account required, and completely free.
 
 ## Why Barkpedia?
 
@@ -22,11 +22,21 @@ Barkpedia identifies any dog breed instantly using on-device machine learning. S
 - **Breed Quiz** — Test your dog breed knowledge with a fun photo quiz.
 - **Dog Facts** — Discover interesting trivia and fun facts about dogs.
 
+## How It Works
+
+1. **Open the app** — no account needed
+2. **Point your camera** at any dog (or pick a photo from your library)
+3. **Get instant results** — breed name, confidence score, and details
+
 ## Your Privacy, Protected
 
 Your photos never leave your device. No accounts, no analytics, no ads. Just you and the dogs.
 
 Read our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/barkpedia/).
+
+## Compatibility
+
+Barkpedia requires iOS 16.0 or later.
 
 ## Need Help?
 

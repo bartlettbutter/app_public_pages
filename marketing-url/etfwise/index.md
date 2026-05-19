@@ -16,7 +16,7 @@ app_description: "Smarter ETF insights, every day. Daily recommendations with li
 > "Index funds are the only rational alternative for almost all mutual fund investors."
 > — Burton Malkiel, *A Random Walk Down Wall Street*
 
-ETFWise surfaces daily ETF recommendations across seven categories — Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend — with live prices, news sentiment, prediction markets, and on-device AI analysis. No subscriptions, no ads.
+ETFWise surfaces daily ETF recommendations across seven categories (Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend) with live prices, news sentiment, prediction markets, and on-device AI analysis. No subscriptions, no ads.
 
 ## Why ETFs?
 
@@ -25,7 +25,7 @@ ETFWise surfaces daily ETF recommendations across seven categories — Major Ind
 - **Full Transparency** — Holdings disclosed daily, so you always know what you own.
 - **Lower Fees** — Cheaper than most actively managed funds, keeping more of your returns.
 
-ETFs give you broad market exposure with simplicity, transparency, and cost efficiency — all in a single trade.
+ETFs give you broad market exposure with simplicity, transparency, and cost efficiency, all in a single trade.
 
 ## Why ETFWise?
 
@@ -34,7 +34,7 @@ ETFs give you broad market exposure with simplicity, transparency, and cost effi
 - **Sentiment & News** — Market mood and headlines that move prices, scored and summarized so you can act fast.
 - **On-Device AI** — Private, offline analysis powered by a local language model. No data leaves your device.
 - **Live Data** — Real-time prices, daily changes, and fund data refreshing every 5 minutes.
-- **Works Without an API Key** — Enter a free Finnhub key for live data, or skip and explore with built-in sample data.
+- **Works Without an API Key** — Enter a free Finnhub key for live data, or skip and explore with built-in demo data.
 
 ## Deep ETF Analysis
 
@@ -51,13 +51,24 @@ Each ETF detail page shows up to ten sections of data:
 
 ## On-Device AI
 
-ETFWise includes a lightweight on-device AI model that runs entirely on your phone. No internet connection needed for AI analysis. The model generates context-rich bull and risk cases informed by price, returns, sentiment, prediction markets, and recent news.
+ETFWise includes a lightweight on-device AI model that runs entirely on your phone. No internet connection is needed for AI analysis. The model generates context-rich bull and risk cases by combining price data, returns, sentiment, prediction markets, and recent news into a single analysis.
+
+## How It Works
+
+1. **Download** — get ETFWise from the App Store
+2. **Enter API Key** (optional) — add a free Finnhub key for live data, or skip to explore with demo data
+3. **View Today's Picks** — browse curated ETF recommendations across seven categories
+4. **Dive Deeper** — tap any ETF for detailed analysis, sentiment, and AI-generated insights
 
 ## Your Privacy, Protected
 
-Your data stays on your device. No accounts, no analytics, no ads. Only ETF ticker symbols and date ranges are sent to third-party APIs to fetch financial data.
+Your data stays on your device. No accounts, no analytics, no ads. Only ETF ticker symbols and date ranges are sent to financial data providers to fetch market data.
 
 Read our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/etfwise/).
+
+## Compatibility
+
+ETFWise requires iOS 18.0 or later.
 
 ## Need Help?
 

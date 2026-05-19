@@ -11,7 +11,7 @@ Welcome to the Nekopedia support page. Below you'll find answers to common quest
 
 ### How does breed identification work?
 
-Nekopedia uses an on-device machine learning model (CoreML) to analyze photos and identify cat breeds. All processing happens locally on your device — your photos are never uploaded anywhere.
+Nekopedia uses an on-device machine learning model to analyze photos and identify cat breeds. All processing happens locally on your device, and your photos are never uploaded anywhere.
 
 ### Do I need an internet connection?
 
@@ -23,7 +23,7 @@ The model works best with clear, well-lit photos where the cat is the main subje
 
 ### Where is my data stored?
 
-All scan history and favorites are stored locally on your device using Apple's SwiftData framework. Nothing is sent to external servers.
+All scan history and favorites are stored locally on your device. Nothing is sent to external servers.
 
 ### How do I delete my saved favorites?
 
@@ -36,6 +36,10 @@ Both games require an internet connection. The Breed Quiz shows you a cat photo 
 ### Is Nekopedia free?
 
 Yes, Nekopedia is completely free with no in-app purchases and no ads.
+
+### Is my data private?
+
+Yes. Your photos never leave your device and no personal data is collected. See our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/nekopedia/) for details.
 
 ## Troubleshooting
 
@@ -50,6 +54,11 @@ Please make sure you're running the latest version of Nekopedia from the App Sto
 ### Breed info, quiz, or trivia content isn't loading
 
 These features require an internet connection. Check that your device is connected to Wi-Fi or cellular data.
+
+## Compatibility
+
+- iOS 16.0 or later
+- iPhone
 
 ## Contact Us
 
