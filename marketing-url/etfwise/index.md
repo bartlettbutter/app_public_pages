@@ -34,6 +34,7 @@ ETFs give you broad market exposure with simplicity, transparency, and cost effi
 - **Sentiment & News** — Market mood and headlines that move prices, scored and summarized so you can act fast.
 - **On-Device AI** — Private, offline analysis powered by a local language model. No data leaves your device.
 - **Live Data** — Real-time prices, daily changes, and fund data refreshing every 5 minutes.
+- **Search** — Find any ETF instantly by ticker or name across over 400 supported tickers.
 - **Works Without an API Key** — Enter a free Finnhub key for live data, or skip and explore with built-in demo data.
 
 ## Deep ETF Analysis
@@ -48,6 +49,10 @@ Each ETF detail page shows up to ten sections of data:
 - **Bull & Risk Cases** — AI-generated analysis powered by an on-device language model, using all on-screen metrics as context.
 - **Prediction Markets** — Crowd-sourced probabilities filtered by relevance to each ETF.
 - **Analyst Consensus** — Buy/hold/sell ratings from Wall Street analysts.
+
+## Search
+
+Quickly find any ETF by ticker symbol or name. The search covers the full curated catalog of 200+ ETFs plus an extended library of leveraged, inverse, cryptocurrency, semiconductor, factor, ESG, and other popular ETFs — over 400 tickers in total.
 
 ## On-Device AI
 

@@ -50,9 +50,10 @@ If the model isn't bundled with the app, you'll see a "Download Model" card on t
 | Provider | What It Provides |
 |---|---|
 | Finnhub | Real-time quotes, financial news, sentiment scoring, analyst recommendations |
-| Yahoo Finance | AUM, expense ratios, top holdings, sector weights, fund performance, historical charts |
+| Yahoo Finance | AUM, expense ratios, top holdings, sector weights, fund performance |
 | Polymarket | Prediction market probabilities |
-| On-Device AI | Bull cases, risk cases, and fund introductions |
+| HuggingFace | Hosts the on-device AI model file for download |
+| On-Device AI (Gemma 3 270M) | Bull cases, risk cases, and fund introductions |
 
 ### How does news sentiment work?
 
@@ -61,6 +62,10 @@ ETFWise fetches recent news articles (7-day window) for each ETF and scores them
 ### How do prediction markets work?
 
 The app shows active prediction market events relevant to each ETF, with crowd-sourced probabilities, trading volume, and resolution dates. Not all ETFs will have matching events. The prediction markets section only appears when relevant events exist.
+
+### Can I search for a specific ETF?
+
+Yes. Use the search bar at the top of the main screen to find any ETF by ticker symbol or name. The search covers the full curated catalog of 200+ ETFs plus an extended library of leveraged, inverse, cryptocurrency, semiconductor, factor, ESG, and other popular ETFs — over 400 tickers in total.
 
 ### How much does ETFWise cost?
 
