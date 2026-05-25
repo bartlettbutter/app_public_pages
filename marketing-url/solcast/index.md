@@ -24,6 +24,7 @@ Anyone who wants weather presented as actionable guidance rather than raw data. 
 - **Parents** — reminders about kids' sunscreen, rain boots, and extra layers
 - **Pet owners** — know when it's safe for walks, paw protection, and storm warnings
 - **Allergy sufferers** — pollen and air quality alerts at your sensitivity level
+- **Eye-sensitive individuals** — personalized sunglasses reminders based on UV conditions
 - **Migraine-sensitive individuals** — pressure and altitude-based headache warnings
 - **Outdoor exercisers** — optimal workout timing based on conditions
 - **Anyone who hates overthinking what to wear**
@@ -34,7 +35,7 @@ Anyone who wants weather presented as actionable guidance rather than raw data. 
 - **Outfit Recommendations** — Daily clothing picks personalized to your dressing style and weather conditions.
 - **Today's Briefing** — A glanceable card with plain-language action items for your day.
 - **7-Day Forecast** — Comprehensive weather data including temperature, wind, UV, precipitation, air quality, and pollen.
-- **10 Personalization Settings** — Temperature sensitivity, dressing style, sun/allergy/migraine sensitivity, kids, pets, cars — all recalculated instantly.
+- **11 Personalization Settings** — Temperature sensitivity, dressing style, sun/eye/allergy/migraine sensitivity, kids, pets, cars — all recalculated instantly.
 - **Multi-Location** — Save multiple locations and switch between them instantly.
 
 ## How It Works

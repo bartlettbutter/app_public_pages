@@ -38,9 +38,9 @@ No account creation or login is required. All features are immediately accessibl
 
 ### How do I personalize my experience?
 
-Open Settings to configure 10 options across three sections:
+Open Settings to configure 11 options across three sections:
 
-- **About You** — temperature unit, temperature sensitivity, sun sensitivity, allergy sensitivity, migraine sensitivity
+- **About You** — temperature unit, temperature sensitivity, sun sensitivity, eye sensitivity, allergy sensitivity, migraine sensitivity
 - **Your Style** — dressing style, outdoor exercise preference
 - **Your Household** — kids, pets, cars
 
