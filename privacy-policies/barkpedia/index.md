@@ -7,55 +7,69 @@ app_description: "Privacy Policy"
 
 **Effective Date:** April 11, 2026
 
-Barkpedia ("the App") is a free iOS application that identifies dog breeds from photos. Your privacy is important to us. This policy explains how the App handles your information.
+## The Short Version
 
-## Data We Collect
+Barkpedia does not collect, store, or share any personal data. Your photos are processed entirely on your device and never leave it. There are no user accounts, no analytics, no tracking, and no ads.
 
-We do not collect, store, or transmit any personal data from you. The App has no user accounts, no analytics, and no advertising.
+---
 
-## Photos
+## Full Privacy Policy
 
-Photos you take or select are processed entirely on your device using on-device machine learning. Your photos are never uploaded to any server.
+Barkpedia ("the App") is a free iOS application that identifies dog breeds from photos. This policy explains what information the App accesses, how it is handled, and what rights you have.
 
-## Scan History
+### Information We Collect
 
-Breed scan results you save to Favorites are stored locally on your device. This data never leaves your device.
+**None.** We do not collect, store, or transmit any personal data. The App contains no user accounts, no analytics SDKs, no advertising frameworks, and no third-party tracking tools.
 
-## Third-Party Services
+### Photos and Camera Access
 
-The App connects to the following third-party services solely to fetch content for display:
+The App requests camera permission solely to let you photograph dogs for breed identification. Photos you take or select are analyzed entirely on your device using on-device machine learning. **Your photos are never uploaded to any server.**
 
-- **Dog CEO API** (https://dog.ceo) — provides dog images for the breed quiz.
-- **The Dog API** (https://thedogapi.com) — provides breed information and images.
-- **dogapi.dog** (https://dogapi.dog) — provides dog facts for the trivia feature.
-- **Wikipedia** (https://wikipedia.org) — provides fallback breed images when other sources are unavailable.
+### Locally Stored Data
 
-These requests fetch content only. No personal data or device identifiers are sent to these services.
+Breed scan results you save to Favorites are stored on your device only. This data is never transmitted externally and can be removed at any time by deleting the App.
 
-## Data Sharing
+### Third-Party Content Services
 
-We do not sell, rent, or share your data with any third parties.
+The App connects to the following services solely to fetch display content (breed images, facts, and quiz data):
 
-## Permissions
+| Service | Purpose | Personal Data Sent |
+|---------|---------|-----------|
+| [Dog CEO API](https://dog.ceo) | Dog images for the breed quiz | None |
+| [The Dog API](https://thedogapi.com) | Breed information and images | None |
+| [dogapi.dog](https://dogapi.dog) | Dog facts for trivia | None |
+| [Wikipedia](https://wikipedia.org) | Fallback breed images | None |
 
-The App requests the following device permission:
+These are standard content-fetch requests. No personal data, device identifiers, or tracking information is included in these requests.
 
-- **Camera** — Used to take photos of dogs for breed identification. Photos are processed entirely on your device and are never uploaded to any server.
+### Data Sharing
 
-No other permissions (location, contacts, microphone, tracking, notifications, etc.) are requested.
+We do not sell, rent, or share any user data with third parties. There is no data to share.
 
-## Data Retention and Deletion
+### Device Permissions
 
-Since we do not collect or store any personal data on our servers, there is no user data to retain or delete. All data stored locally on your device (scan history, favorites) can be removed at any time by deleting the App from your device.
+| Permission | Why We Ask | Required? |
+|------------|-----------|-----------|
+| Camera | To photograph dogs for breed identification | Optional — you can use your photo library instead |
 
-## Children's Privacy
+No other permissions (location, contacts, microphone, tracking, notifications, etc.) are requested or accessed.
 
-The App does not knowingly collect any information from anyone, including children under 13. Because the App collects no personal data, it is safe for users of all ages.
+### Data Retention and Deletion
 
-## Changes to This Policy
+Since we collect no data on our servers, there is nothing to retain or delete on our end. All locally stored data (favorites, scan history) is automatically removed when you delete the App from your device.
 
-If we update this policy, the revised version will be posted on this page with an updated effective date.
+### Children's Privacy
 
-## Contact Us
+The App does not collect any information from anyone, including children under 13. Because no personal data is collected, the App is safe for users of all ages and complies with COPPA requirements.
 
-If you have questions about this privacy policy, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).
+### Your Rights
+
+Since Barkpedia collects no personal data, there is no user data to access, export, correct, or delete from our systems. You maintain full control over all locally stored data on your device.
+
+### Changes to This Policy
+
+If we update this policy, the revised version will be posted on this page with an updated effective date. Continued use of the App after changes constitutes acceptance of the revised policy.
+
+### Contact Us
+
+If you have questions or concerns about this privacy policy, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).
