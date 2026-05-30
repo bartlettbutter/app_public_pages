@@ -16,7 +16,7 @@ Stop juggling screenshots, spreadsheets, and scattered notes. Journeyfolio bring
 - **Zero friction to start** — No account, no sign-up. Open the app and start building your trip in seconds.
 - **Pay once, own it forever** — One purchase. No subscriptions, no ads, no upsells.
 
-[Download on the App Store](#){: .cta-link }
+[Download on the App Store](https://apps.apple.com/us/app/journeyfolio/id6762172188){: .cta-link }
 
 ---
 

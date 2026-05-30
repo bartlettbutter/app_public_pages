@@ -5,33 +5,23 @@ app_icon: /app_public_pages/support-url/etfwise/icon_ETFWise.png
 app_description: "Support"
 ---
 
-Welcome to the ETFWise support page. Below you'll find answers to common questions and ways to get help.
+We're here to help you get the most out of ETFWise. Browse the answers below or reach out directly — we're happy to assist.
 
-## Frequently Asked Questions
+## Getting Started
 
 ### How do the daily recommendations work?
 
-ETFWise surfaces curated ETF recommendations across seven categories: Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend. When you tap "View Today's Picks," the app selects top ETFs per category and displays them on the main screen with full live data. Tap "See More" on any section to browse subcategories (e.g., Technology, Health Care, Energy within Sector). The recommended list is pinned once per day. Within that window, the list stays fixed and only live data (prices, sentiment) refreshes automatically every 5 minutes.
+Each day, ETFWise selects top ETFs across seven categories (Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend) based on live market data. The list is pinned for the full day so your view stays stable — only prices and sentiment refresh automatically every 5 minutes. Tap "See More" on any section to explore subcategories.
+
+### Do I need an API key?
+
+A free Finnhub API key unlocks live prices, news, and analyst data. You can get one at [finnhub.io](https://finnhub.io) and enter it on first launch. If you skip this step, the app runs with built-in demo data so you can explore the full interface.
 
 ### Do I need an internet connection?
 
-An internet connection is needed to fetch live prices, news, sentiment, prediction markets, and fund data. However, the on-device AI model runs entirely offline once downloaded, so no internet is required for AI-generated analysis.
+Yes, for live prices, news, sentiment, and fund data. However, the on-device AI model runs entirely offline once downloaded — no internet needed for AI-generated analysis.
 
-### What is the Finnhub API key and do I need one?
-
-Finnhub provides real-time ETF quotes, news, and analyst data. You can get a free API key at [finnhub.io](https://finnhub.io). Enter it on first launch to see live data. If you skip this step, the app runs with built-in demo data so you can still explore the interface.
-
-### Where is my data stored?
-
-All data, including recommendations, cached prices, sentiment scores, and AI-generated analysis, is stored locally on your device. Data is refreshed daily and never uploaded to external servers. Your Finnhub API key is stored securely on your device.
-
-### What is the on-device AI model?
-
-ETFWise includes a lightweight on-device language model that runs locally on your device. It generates bull cases, risk cases, and fund introductions using all on-screen metrics as context. The model may need to be downloaded on first launch.
-
-### How do I download the AI model?
-
-If the model isn't bundled with the app, you'll see a "Download Model" card on the main screen and in ETF detail views. Tap it to download. The download shows a progress bar and the model is saved to your device for future use.
+## Features
 
 ### What are the seven ETF categories?
 
@@ -45,57 +35,56 @@ If the model isn't bundled with the app, you'll see a "Download Model" card on t
 | Thematic | AI & robotics, clean energy, cybersecurity, cloud, EVs |
 | Dividend | High yield, dividend growth, aristocrats, income strategies |
 
-### What data sources does ETFWise use?
+### What is the on-device AI?
 
-| Provider | What It Provides |
-|---|---|
-| Finnhub | Real-time quotes, financial news, sentiment scoring, analyst recommendations |
-| Yahoo Finance | AUM, expense ratios, top holdings, sector weights, fund performance |
-| Polymarket | Prediction market probabilities |
-| HuggingFace | Hosts the on-device AI model file for download |
-| On-Device AI (Gemma 3 270M) | Bull cases, risk cases, and fund introductions |
+ETFWise includes a lightweight language model that runs locally on your iPhone. It generates bull cases and risk cases using the real data shown on screen — price, returns, sentiment, and news. All processing happens on your device. Nothing is sent to external servers.
+
+### How do I download the AI model?
+
+If the model isn't pre-installed, you'll see a "Download Model" card on the main screen and in ETF detail views. Tap it to download (~290 MB). A progress bar shows the download status. Once complete, the model is saved locally for future use.
 
 ### How does news sentiment work?
 
-ETFWise fetches recent news articles (7-day window) for each ETF and scores them for positive or negative sentiment. The result is a score from -1.0 to +1.0, displayed as Bearish, Negative, Neutral, Positive, or Bullish. Up to 3 recent headlines are shown alongside the score.
+The app analyzes recent news articles (7-day window) for each ETF and scores them for positive or negative tone. The result is displayed as Bearish, Negative, Neutral, Positive, or Bullish. Up to 3 recent headlines are shown alongside the score.
 
 ### How do prediction markets work?
 
-The app shows active prediction market events relevant to each ETF, with crowd-sourced probabilities, trading volume, and resolution dates. Not all ETFs will have matching events. The prediction markets section only appears when relevant events exist.
+ETFWise shows active prediction market events relevant to each ETF, with crowd-sourced probabilities and trading volume. Not all ETFs have matching events — the section only appears when relevant predictions exist.
 
 ### Can I search for a specific ETF?
 
-Yes. Use the search bar at the top of the main screen to find any ETF by ticker symbol or name. The search covers the full curated catalog of 200+ ETFs plus an extended library of leveraged, inverse, cryptocurrency, semiconductor, factor, ESG, and other popular ETFs — over 400 tickers in total.
+Yes. Use the search bar to find any ETF by ticker symbol or name. The search covers 200+ curated ETFs plus an extended library of leveraged, inverse, cryptocurrency, semiconductor, factor, ESG, and other popular ETFs — over 400 tickers in total.
 
 ### How much does ETFWise cost?
 
-ETFWise is available on the App Store. There are no subscriptions and no ads.
-
-### Is my data private?
-
-Yes. All data stays on your device. No personal data is collected or transmitted. See our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/etfwise/) for details.
+ETFWise is free to download from the App Store. There are no subscriptions and no ads.
 
 ## Troubleshooting
 
 ### Prices aren't loading
 
-Make sure you've entered a valid Finnhub API key. You can get a free key at [finnhub.io](https://finnhub.io). Also check that your device is connected to the internet. If you skipped the API key step, the app shows demo data instead of live prices.
+1. Make sure you've entered a valid Finnhub API key (get a free one at [finnhub.io](https://finnhub.io))
+2. Check that your device is connected to the internet
+3. If you skipped the API key step, the app shows demo data instead of live prices — this is expected behavior
 
-### The app shows "Unable to load ETF data"
+### "Unable to load ETF data" error
 
-This usually means the network request failed. Check your internet connection and try tapping "Retry." If you're using a Finnhub API key, verify it's correct in the app settings.
+This usually means a network request failed. Check your internet connection and tap "Retry." If you're using a Finnhub API key, verify it's entered correctly in the app settings.
 
 ### Bull and risk cases aren't generating
 
-The on-device AI model must be downloaded first. Look for the "Download Model" card on the main screen or in the ETF detail view. The model requires a one-time download.
+The on-device AI model must be downloaded first. Look for the "Download Model" card on the main screen or in the ETF detail view and tap to download.
 
 ### Fund data (holdings, performance) isn't loading
 
-Top holdings, fund performance, and AUM data come from Yahoo Finance, which doesn't require an API key but does need an internet connection. If data fails to load, try closing and reopening the ETF detail view.
+Holdings and performance data require an internet connection. If data fails to load, try closing and reopening the ETF detail view.
 
-### The app is crashing
+### The app is crashing or freezing
 
-Please make sure you're running the latest version of ETFWise from the App Store. If the problem continues, try restarting your device.
+1. Make sure you're running the latest version from the App Store
+2. Force-close the app and reopen it
+3. Restart your device
+4. If the problem continues, please contact us below with a brief description of what happened
 
 ## Compatibility
 
@@ -104,4 +93,6 @@ Please make sure you're running the latest version of ETFWise from the App Store
 
 ## Contact Us
 
-If your question isn't answered here, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com) and we'll get back to you.
+Didn't find your answer? We'd love to help.
+
+Email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com) and we'll get back to you as soon as possible. Please include your device model and iOS version so we can assist you faster.
