@@ -2,7 +2,7 @@
 layout: default
 title: Barkpedia
 app_icon: /app_public_pages/marketing-url/barkpedia/icon_Barkpedia.png
-app_description: "Identify any dog breed instantly from a photo. Free, offline, powered by on-device ML."
+app_description: "Identify any dog breed instantly. Free, offline, and private."
 ---
 
 # Identify Any Dog Breed — Instantly, Privately, and Free
