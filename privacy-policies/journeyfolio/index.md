@@ -7,11 +7,14 @@ app_description: "Privacy Policy"
 
 **Effective Date:** May 18, 2026
 
+Journeyfolio is a paid iOS application that helps you plan and organize trips. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
+
 ## The Short Version
 
-Journeyfolio is designed with privacy at its core. Your trip data stays on your device. We don't collect personal information, we don't run analytics, and we don't show ads. The only network requests the app makes are to fetch weather, flight info, and holiday data for the destinations you add.
-
----
+- We collect **no personal data** — no accounts, no analytics, no tracking, no ads.
+- Your trip data stays **entirely on your device** — there is no cloud sync.
+- The app does **not** access your GPS location or track your movements.
+- Network requests are made only to fetch weather, flight info, and holiday data for destinations you add.
 
 ## What Data We Collect
 
@@ -25,36 +28,20 @@ All trip information you create — destinations, dates, activities, flight numb
 
 Journeyfolio does not access your device's GPS location or track your movements.
 
-When you add a destination or search for places (hotels, restaurants, points of interest), your search queries are sent to Apple's servers to return results. City names are sent to Apple for geocoding and weather retrieval. Country codes are sent to Nager.Date for public holiday information.
+When you add a destination or search for places, your search queries are sent to Apple's servers to return results. City names are sent to Apple for geocoding and weather retrieval. Country codes are sent to Nager.Date for public holiday information.
 
 No other location data is collected or transmitted.
 
----
-
 ## Third-Party Services
 
-The app connects to the following services solely to fetch content for display within the app. No personal data or device identifiers are sent — only the minimum information needed to fulfill each request (city names, flight numbers, country codes, and dates).
+The app connects to the following services solely to fetch content for display. No personal data or device identifiers are sent — only the minimum information needed to fulfill each request.
 
-### Apple Weather & Maps
-
-City names are converted to coordinates via Apple Maps, which are then used to fetch weather forecasts from [Apple Weather](https://weatherkit.apple.com/legal-attribution.html). Apple Maps also powers location search for points of interest and airport timezone resolution. If Apple Weather is temporarily unavailable, **OpenWeatherMap** receives city names as a fallback.
-
-- [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
-- [OpenWeatherMap Privacy Policy](https://openweather.co.uk/privacy-policy)
-
-### FlightAware
-
-Provides flight schedule verification and live status information. Flight numbers and dates are sent to retrieve schedule and status data.
-
-- [FlightAware Privacy Policy](https://www.flightaware.com/legal/privacy/)
-
-### Nager.Date
-
-Provides public holiday information. Country codes and year are sent to retrieve holiday data.
-
-- [Nager.Date Website](https://date.nager.at)
-
----
+| Service | Purpose | Data Sent | Privacy Info |
+|---------|---------|-----------|--------------|
+| Apple Weather & Maps | Weather forecasts, location search, timezone resolution | City names, coordinates | [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) |
+| OpenWeatherMap | Fallback weather provider | City names | [OpenWeatherMap Privacy Policy](https://openweather.co.uk/privacy-policy) |
+| FlightAware | Flight schedule verification and live status | Flight numbers, dates | [FlightAware Privacy Policy](https://www.flightaware.com/legal/privacy/) |
+| Nager.Date | Public holiday information | Country codes, year | [Nager.Date Website](https://date.nager.at) |
 
 ## Data Sharing
 
@@ -70,13 +57,13 @@ Your trip data persists on your device until you delete it within the app or uni
 
 **You are in full control.** Delete any trip or activity at any time by swiping left within the app.
 
+## Your Rights
+
+Since Journeyfolio stores all data locally and collects nothing on our end, you already have complete control over your information. You can view, modify, or delete your data at any time directly within the app.
+
 ## Children's Privacy
 
 Journeyfolio does not knowingly collect information from anyone, including children under 13. Because the app collects no personal data, it is safe for users of all ages.
-
-## Your Rights
-
-Since Journeyfolio stores all data locally on your device and collects nothing on our end, you already have complete control over your information. You can view, modify, or delete your data at any time directly within the app.
 
 ## Changes to This Policy
 

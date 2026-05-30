@@ -7,11 +7,18 @@ app_description: "Privacy Policy"
 
 **Effective Date:** May 25, 2026
 
-Huepick ("the App") is a free iOS application that extracts colors from photos and generates harmonious color palettes. Your privacy is important to us. This policy explains how the App handles your information.
+Huepick ("the App") is a free iOS application that extracts colors from photos and generates harmonious color palettes. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
+
+## The Short Version
+
+- We collect **no personal data** — no accounts, no analytics, no tracking, no ads.
+- Your photos are processed **entirely on your device** and are never uploaded anywhere.
+- All color extraction and palette generation works **completely offline**.
+- The only network request is an optional geocoding lookup to display a place name on saved palettes.
 
 ## Data We Collect
 
-We do not collect, store, or transmit any personal data from you. The App has no user accounts, no analytics, and no advertising.
+**None.** We do not collect, store, or transmit any personal data from you. The App has no user accounts, no analytics, and no advertising.
 
 ## Photos
 
@@ -27,7 +34,11 @@ Color palettes you save to your gallery are stored locally on your device. This 
 
 ## Third-Party Services
 
-The App uses Apple's geocoding service solely to convert photo location coordinates into readable place names. No personal data or device identifiers are sent. All other features work entirely offline.
+| Service | Purpose | Data Sent | Privacy Info |
+|---------|---------|-----------|--------------|
+| Apple Geocoding | Convert photo coordinates into readable place names | Geographic coordinates only (optional) | [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) |
+
+No personal data or device identifiers are sent. All other features work entirely offline.
 
 ## Data Sharing
 
@@ -35,20 +46,24 @@ We do not sell, rent, or share your data with any third parties.
 
 ## Permissions
 
-The App requests the following device permissions:
-
-- **Camera** — Used to capture photos for color extraction. Photos are processed entirely on your device and are never uploaded to any server.
-- **Photo Library** — Used to select existing photos for color extraction. Selected photos are processed on your device and are never uploaded.
+| Permission | Why We Ask | Required? |
+|------------|-----------|-----------|
+| Camera | To capture photos for color extraction | Optional — you can use your photo library instead |
+| Photo Library | To select existing photos for color extraction | Optional |
 
 No other permissions (location, contacts, microphone, tracking, notifications, etc.) are requested. The App does not access your live location — it only reads location data already embedded in your photos' metadata.
 
 ## Data Retention and Deletion
 
-Since we do not collect or store any personal data on our servers, there is no user data to retain or delete. All data stored locally on your device (saved palettes) can be removed at any time by deleting the App from your device.
+Since we do not collect or store any personal data on our servers, there is no user data to retain or delete. All data stored locally on your device (saved palettes) can be removed at any time by deleting the App.
+
+## Your Rights
+
+Because Huepick collects no personal data, there is no user data to access, export, correct, or delete from our systems. You maintain full control over all locally stored data on your device.
 
 ## Children's Privacy
 
-The App does not knowingly collect any information from anyone, including children under 13. Because the App collects no personal data, it is safe for users of all ages.
+The App does not collect any information from anyone, including children under 13. Because no personal data is collected, the App is safe for users of all ages.
 
 ## Changes to This Policy
 

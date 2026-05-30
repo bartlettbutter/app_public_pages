@@ -7,17 +7,20 @@ app_description: "Privacy Policy"
 
 **Effective Date:** April 25, 2026
 
-## The short version
+ETFWise ("the App") is a free iOS application that provides daily ETF recommendations with live market data and on-device AI analysis. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
 
-ETFWise does not collect personal data. There are no accounts, no analytics, no ads, and no tracking. Everything stays on your device.
+## The Short Version
 
----
+- We collect **no personal data** — no accounts, no analytics, no tracking, no ads.
+- AI analysis runs **entirely on your device** — no prompts or outputs are sent to any server.
+- The only data sent externally is **ETF ticker symbols** to fetch market data.
+- Your Finnhub API key is stored securely on-device and sent only to Finnhub.
 
-## What data we collect
+## What Data We Collect
 
 **None.** We do not collect, store, or transmit any personal information to our servers. ETFWise has no user accounts, no usage analytics, and no advertising or tracking frameworks.
 
-## What stays on your device
+## What Stays on Your Device
 
 All app data is stored locally on your iPhone:
 
@@ -28,55 +31,49 @@ All app data is stored locally on your iPhone:
 
 This data is refreshed daily and is never uploaded to external servers.
 
-## How the app communicates with external services
+## Third-Party Services
 
-ETFWise connects to third-party financial data providers solely to fetch market data for display. The only information sent is **ETF ticker symbols and date ranges** — no personal data, device identifiers, or location information is transmitted.
+ETFWise connects to financial data providers solely to fetch market data for display. The only information sent is **ETF ticker symbols and date ranges** — no personal data, device identifiers, or location information is transmitted.
 
-| Service | What it provides | What is sent |
-|---|---|---|
-| [Finnhub](https://finnhub.io) | Real-time quotes, news, sentiment, analyst data | Ticker symbols, date ranges, your API key (to Finnhub only) |
-| [Yahoo Finance](https://finance.yahoo.com) | Fund size, holdings, sector weights, performance | Ticker symbols |
-| [Polymarket](https://polymarket.com) | Prediction market probabilities | Nothing personal — public event data is fetched |
-| [HuggingFace](https://huggingface.co) | Hosts the AI model file for one-time download | Nothing personal — only the model file is retrieved |
+| Service | What It Provides | Data Sent | Privacy Info |
+|---|---|---|---|
+| Finnhub | Real-time quotes, news, sentiment, analyst data | Ticker symbols, date ranges, your API key | [Privacy Policy](https://finnhub.io/privacy-policy) |
+| Yahoo Finance | Fund size, holdings, sector weights, performance | Ticker symbols | [Privacy Policy](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) |
+| Polymarket | Prediction market probabilities | Nothing personal — public event data | [Privacy Policy](https://polymarket.com/privacy) |
+| HuggingFace | Hosts the AI model file for one-time download | Nothing personal — model file only | [Privacy Policy](https://huggingface.co/privacy) |
 
-Each service operates under its own privacy policy:
-- Finnhub: [finnhub.io/privacy-policy](https://finnhub.io/privacy-policy)
-- Yahoo: [legal.yahoo.com/us/en/yahoo/privacy](https://legal.yahoo.com/us/en/yahoo/privacy/index.html)
-- Polymarket: [polymarket.com/privacy](https://polymarket.com/privacy)
-- HuggingFace: [huggingface.co/privacy](https://huggingface.co/privacy)
-
-## On-device AI processing
+## On-Device AI Processing
 
 The AI model runs entirely on your device. All inference — including bull cases, risk cases, and fund descriptions — happens locally. No prompts, inputs, or outputs are sent to any external server for AI processing.
 
-## API key security
+## API Key Security
 
 If you enter a Finnhub API key, it is stored securely on your device and transmitted only to Finnhub's API for authentication. It is never sent anywhere else or shared with any other party.
 
-## Data sharing
+## Data Sharing
 
 We do not sell, rent, or share your data with any third parties. We have no data-sharing agreements, no advertising partners, and no analytics providers.
 
-## Device permissions
+## Permissions
 
 ETFWise does not request access to your camera, location, contacts, microphone, health data, photos, or App Tracking Transparency. No special permissions are required to use the app.
 
-## Data retention and deletion
+## Data Retention and Deletion
 
 Since we collect no personal data on our servers, there is nothing to retain or delete on our end. All locally stored data — including recommendations, cached prices, AI analysis, and your API key — is permanently removed when you delete the app from your device.
 
-## Children's privacy
-
-ETFWise does not knowingly collect personal information from anyone, including children under 13. Because the app collects no personal data whatsoever, it complies with COPPA requirements.
-
-## Your rights
+## Your Rights
 
 Because ETFWise does not collect or store personal data on any server, there is no personal data to access, correct, export, or delete from our systems. You maintain full control over all locally stored data by managing or removing the app on your device.
 
-## Changes to this policy
+## Children's Privacy
+
+ETFWise does not knowingly collect personal information from anyone, including children under 13. Because the app collects no personal data whatsoever, it complies with COPPA requirements.
+
+## Changes to This Policy
 
 If we update this policy, the revised version will be posted on this page with an updated effective date. We encourage you to review this page periodically.
 
-## Contact us
+## Contact Us
 
-Questions or concerns about this privacy policy? Email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).
+Questions about this privacy policy? Email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).

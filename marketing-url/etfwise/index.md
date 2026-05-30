@@ -11,14 +11,14 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recom
 
 ## Why investors choose ETFWise
 
-- **Fresh picks every morning** — Curated ETF recommendations across Major Index, Sector, Bond, International, Commodity, Thematic, and Dividend categories, refreshed daily so you always know where to look.
+- **Fresh picks every morning** — Curated recommendations across Major Index, Sector, Bond, International, Commodity, Thematic, and Dividend categories, refreshed daily so you always know where to look.
 - **See what moves the market** — News sentiment scores, prediction market probabilities, and analyst consensus give you the full picture before you act.
 - **AI analysis that stays private** — An on-device model generates bull and risk cases using real metrics. No cloud uploads. No data leaves your phone.
 - **Live data, zero cost** — Real-time prices refreshing every 5 minutes, 200+ curated ETFs, 400+ searchable tickers. No subscriptions. No ads. Ever.
 
 ## Deep analysis at your fingertips
 
-Tap any ETF for up to ten sections of insight:
+Tap any ETF for comprehensive insight:
 
 - **Price, stats, and fund overview** — Current price, expense ratio, AUM, and tracking index
 - **Top holdings and sector weights** — Know exactly what you own
@@ -37,16 +37,15 @@ Tap any ETF for up to ten sections of insight:
 
 [Download on the App Store](https://apps.apple.com/us/app/etfwise/id6762496354)
 
+## Compatibility
+
+iOS 18.0 or later · iPhone
+
 ## Your privacy, protected
 
 No accounts. No analytics. No ads. Your data stays on your device — only ticker symbols are sent to financial data providers to fetch market data.
 
 Read our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/etfwise/).
-
-## Requirements
-
-- iOS 18.0 or later
-- iPhone
 
 ## Need help?
 

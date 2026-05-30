@@ -5,13 +5,9 @@ app_icon: /app_public_pages/support-url/barkpedia/icon_Barkpedia.png
 app_description: "Support"
 ---
 
-# We're Here to Help
+We're here to help you get the most out of Barkpedia. Browse the answers below, or reach out directly if you can't find what you need.
 
-Having trouble or just have a question? You'll find answers to the most common topics below. If you need more help, our team is just an email away.
-
----
-
-## Frequently Asked Questions
+## Getting Started
 
 ### How does breed identification work?
 
@@ -23,6 +19,12 @@ Barkpedia uses on-device machine learning to analyze your photo and identify the
 
 **For breed details, the quiz, and dog trivia — yes.** These features fetch content from the internet and require a connection.
 
+### Is Barkpedia free?
+
+Yes — completely free. No in-app purchases, no subscriptions, and no ads.
+
+## Frequently Asked Questions
+
 ### Why wasn't my dog's breed recognized correctly?
 
 For the best results:
@@ -31,10 +33,6 @@ For the best results:
 - Use good lighting — natural light works best
 - Try a different angle (front-facing or profile shots work well)
 - Mixed-breed dogs may show the closest matching purebred
-
-### Is Barkpedia really free?
-
-Yes — completely free. No in-app purchases, no subscriptions, and no ads. What you download is what you get.
 
 ### Where is my data stored?
 
@@ -48,33 +46,28 @@ Swipe left on any item in the Favorites tab to delete it individually. To remove
 
 Both require an internet connection. The Breed Quiz shows you a dog photo and asks you to pick the correct breed from four choices. Dog Trivia presents true-or-false statements. Each round is 10 questions, and you'll earn a reward title based on your score.
 
----
-
 ## Troubleshooting
 
 ### The camera isn't working
 
-1. Open **Settings > Barkpedia** on your iPhone
-2. Make sure **Camera** access is toggled on
-3. If it's already enabled, try force-closing and reopening the app
-
-### The app is crashing or freezing
-
-- Make sure you're running the latest version from the App Store
-- Restart your iPhone and try again
-- If the issue persists, please contact us (details below)
+- Open **Settings > Barkpedia** on your iPhone
+- Make sure **Camera** access is toggled on
+- If it's already enabled, try force-closing and reopening the app
 
 ### Breed info, quiz, or trivia content isn't loading
 
 These features require an active internet connection. Confirm you're connected to Wi-Fi or cellular data, then try again.
 
----
+### The app is crashing or freezing
+
+- Make sure you're running the latest version from the App Store
+- Restart your iPhone and try again
+- If the issue persists, please contact us below
 
 ## Compatibility
 
-- iPhone with iOS 16.0 or later
-
----
+- iOS 16.0 or later
+- iPhone
 
 ## Contact Us
 

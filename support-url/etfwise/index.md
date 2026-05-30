@@ -5,7 +5,7 @@ app_icon: /app_public_pages/support-url/etfwise/icon_ETFWise.png
 app_description: "Support"
 ---
 
-We're here to help you get the most out of ETFWise. Browse the answers below or reach out directly — we're happy to assist.
+We're here to help you get the most out of ETFWise. Browse the answers below, or reach out directly — we're happy to assist.
 
 ## Getting Started
 
@@ -21,7 +21,11 @@ A free Finnhub API key unlocks live prices, news, and analyst data. You can get 
 
 Yes, for live prices, news, sentiment, and fund data. However, the on-device AI model runs entirely offline once downloaded — no internet needed for AI-generated analysis.
 
-## Features
+### How much does ETFWise cost?
+
+ETFWise is free to download from the App Store. There are no subscriptions and no ads.
+
+## Frequently Asked Questions
 
 ### What are the seven ETF categories?
 
@@ -47,25 +51,21 @@ If the model isn't pre-installed, you'll see a "Download Model" card on the main
 
 The app analyzes recent news articles (7-day window) for each ETF and scores them for positive or negative tone. The result is displayed as Bearish, Negative, Neutral, Positive, or Bullish. Up to 3 recent headlines are shown alongside the score.
 
-### How do prediction markets work?
-
-ETFWise shows active prediction market events relevant to each ETF, with crowd-sourced probabilities and trading volume. Not all ETFs have matching events — the section only appears when relevant predictions exist.
-
 ### Can I search for a specific ETF?
 
-Yes. Use the search bar to find any ETF by ticker symbol or name. The search covers 200+ curated ETFs plus an extended library of leveraged, inverse, cryptocurrency, semiconductor, factor, ESG, and other popular ETFs — over 400 tickers in total.
+Yes. Use the search bar to find any ETF by ticker symbol or name. The search covers 200+ curated ETFs plus an extended library of over 400 tickers in total.
 
-### How much does ETFWise cost?
+### Is my data private?
 
-ETFWise is free to download from the App Store. There are no subscriptions and no ads.
+Yes. No accounts, no analytics, no tracking. Only ticker symbols are sent to financial data providers. See our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/etfwise/) for details.
 
 ## Troubleshooting
 
 ### Prices aren't loading
 
-1. Make sure you've entered a valid Finnhub API key (get a free one at [finnhub.io](https://finnhub.io))
-2. Check that your device is connected to the internet
-3. If you skipped the API key step, the app shows demo data instead of live prices — this is expected behavior
+- Make sure you've entered a valid Finnhub API key (get a free one at [finnhub.io](https://finnhub.io))
+- Check that your device is connected to the internet
+- If you skipped the API key step, the app shows demo data instead of live prices — this is expected behavior
 
 ### "Unable to load ETF data" error
 
@@ -81,10 +81,10 @@ Holdings and performance data require an internet connection. If data fails to l
 
 ### The app is crashing or freezing
 
-1. Make sure you're running the latest version from the App Store
-2. Force-close the app and reopen it
-3. Restart your device
-4. If the problem continues, please contact us below with a brief description of what happened
+- Make sure you're running the latest version from the App Store
+- Force-close the app and reopen it
+- Restart your device
+- If the problem continues, please contact us below
 
 ## Compatibility
 
@@ -95,4 +95,6 @@ Holdings and performance data require an internet connection. If data fails to l
 
 Didn't find your answer? We'd love to help.
 
-Email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com) and we'll get back to you as soon as possible. Please include your device model and iOS version so we can assist you faster.
+**Email:** [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com)
+
+We aim to respond within 48 hours. Please include your device model and iOS version so we can assist you faster.
