@@ -14,15 +14,15 @@ Barkpedia ("the App") is a free iOS application that identifies dog breeds from 
 - We collect **no personal data** — no accounts, no analytics, no tracking, no ads.
 - Your photos are processed **entirely on your device** and never leave it.
 - Breed identification works **completely offline**.
-- The only network requests are to fetch breed images, facts, and quiz content for display.
+- The only network requests are to fetch breed information, images, and game content for display.
 
 ## Data We Collect
 
 **None.** We do not collect, store, or transmit any personal data. The App contains no user accounts, no analytics SDKs, no advertising frameworks, and no third-party tracking tools.
 
-## Photos and Camera Access
+## Photos and Camera/Library Access
 
-The App requests camera permission solely to let you photograph dogs for breed identification. Photos you take or select are analyzed entirely on your device using on-device machine learning. **Your photos are never uploaded to any server.**
+The App requests camera and photo library permissions solely to let you photograph or select images of dogs for breed identification. Photos you take or select are analyzed entirely on your device using on-device machine learning. **Your photos are never uploaded to any server.**
 
 ## Locally Stored Data
 
@@ -30,13 +30,13 @@ Breed scan results you save to Favorites are stored on your device only. This da
 
 ## Third-Party Services
 
-The App connects to the following services solely to fetch display content (breed images, facts, and quiz data):
+The App connects to the following services solely to fetch display content (breed information, images, and game data):
 
 | Service | Purpose | Data Sent | Privacy Info |
 |---------|---------|-----------|--------------|
-| Dog CEO API | Dog images for the breed quiz | None | [dog.ceo](https://dog.ceo) |
-| The Dog API | Breed information and images | None | [thedogapi.com](https://thedogapi.com) |
-| dogapi.dog | Dog facts for trivia | None | [dogapi.dog](https://dogapi.dog) |
+| The Dog API | Breed information (temperament, stats, history) | None | [thedogapi.com](https://thedogapi.com) |
+| dogapi.dog | Additional breed info and dog facts for trivia | None | [dogapi.dog](https://dogapi.dog) |
+| Dog CEO API | Breed images and quiz photos | None | [dog.ceo](https://dog.ceo) |
 | Wikipedia | Fallback breed images | None | [wikipedia.org](https://wikipedia.org) |
 
 These are standard content-fetch requests. No personal data, device identifiers, or tracking information is included.
@@ -50,6 +50,7 @@ We do not sell, rent, or share any user data with third parties. There is no dat
 | Permission | Why We Ask | Required? |
 |------------|-----------|-----------|
 | Camera | To photograph dogs for breed identification | Optional — you can use your photo library instead |
+| Photo Library | To select existing photos for breed identification | Optional — you can use the camera instead |
 
 No other permissions (location, contacts, microphone, tracking, notifications, etc.) are requested or accessed.
 
