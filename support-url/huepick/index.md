@@ -40,8 +40,8 @@ Each tailors your palette for a specific real-world scenario with meaningful col
 
 - **Home Decor** — Wall, floor, and accent colors
 - **Car Interior** — Panel, seat, and accent colors
-- **Fashion** — Top, bottom, and accessory colors
-- **Makeup** — Lip, eye, blush, and highlight colors
+- **Fashion** — Hair, skin, top, bottom, accent, and accessory colors
+- **Makeup** — Skin, lip, eye, blush, contour, and highlight colors
 - **UI & Graphic Design** — Primary, secondary, accent, surface, background, and text colors
 
 ### How do I copy a hex code?

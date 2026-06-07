@@ -20,7 +20,7 @@ Huepick extracts dominant colors from any photo and generates harmonious palette
 
 - **Smart Color Extraction** — Identifies up to 12 dominant colors from any photo.
 - **6 Harmony Types** — Classical color theory applied automatically to your extracted colors.
-- **5 Real-World Scenarios** — Palettes with context-appropriate roles (wall/floor/accent, top/bottom/accessory, primary/secondary/background, and more).
+- **5 Real-World Scenarios** — Palettes with context-appropriate roles (wall/floor/accent, hair/skin/top/bottom, lip/eye/blush/contour, primary/secondary/background, and more).
 - **Save & Edit** — Build a gallery of palettes, edit individual colors, or create custom palettes from scratch.
 - **Copy Hex Codes** — Tap any swatch to copy its hex code instantly.
 - **Photo Context** — Palettes remember where and when the photo was taken, so you can revisit your inspiration.
