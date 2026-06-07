@@ -22,7 +22,7 @@ ETFWise ("the App") is a free iOS application that provides daily ETF recommenda
 
 ## What Stays on Your Device
 
-All app data is stored locally on your iPhone:
+All app data is stored locally on your device:
 
 - Daily ETF recommendations and cached market prices
 - News sentiment scores and AI-generated analysis

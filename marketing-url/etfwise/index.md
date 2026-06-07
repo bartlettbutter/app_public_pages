@@ -13,7 +13,7 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recom
 
 - **Fresh picks every morning** — Curated recommendations across Major Index, Sector, Bond, International, Commodity, Thematic, and Dividend categories, refreshed daily so you always know where to look.
 - **See what moves the market** — News sentiment scores, prediction market probabilities, and analyst consensus give you the full picture before you act.
-- **AI analysis that stays private** — An on-device model generates bull and risk cases using real metrics. No cloud uploads. No data leaves your phone.
+- **AI analysis that stays private** — An on-device model generates bull and risk cases using real metrics. No cloud uploads. No data leaves your device.
 - **Live data, zero cost** — Real-time prices refreshing every 5 minutes, 200+ curated ETFs, 400+ searchable tickers. No subscriptions. No ads. Ever.
 
 ## Deep analysis at your fingertips
@@ -22,7 +22,7 @@ Tap any ETF for comprehensive insight:
 
 - **Price, stats, and fund overview** — Current price, expense ratio, AUM, and tracking index
 - **Top holdings and sector weights** — Know exactly what you own
-- **Performance history** — Trailing returns, annual returns, best/worst years
+- **Performance history** — Trailing returns, annual returns, best/worst years, Morningstar rating
 - **News sentiment** — 7-day sentiment score with the latest headlines
 - **AI-generated bull and risk cases** — Context-rich analysis grounded in real data
 - **Prediction markets** — Crowd-sourced probabilities relevant to each ETF
@@ -39,7 +39,7 @@ Tap any ETF for comprehensive insight:
 
 ## Compatibility
 
-iOS 18.0 or later · iPhone
+iOS 18.0 or later · iPhone · iPad
 
 ## Your privacy, protected
 

@@ -41,7 +41,7 @@ ETFWise is free to download from the App Store. There are no subscriptions and n
 
 ### What is the on-device AI?
 
-ETFWise includes a lightweight language model that runs locally on your iPhone. It generates bull cases and risk cases using the real data shown on screen — price, returns, sentiment, and news. All processing happens on your device. Nothing is sent to external servers.
+ETFWise includes a lightweight language model that runs locally on your device. It generates bull cases and risk cases using the real data shown on screen — price, returns, sentiment, and news. All processing happens on your device. Nothing is sent to external servers.
 
 ### How do I download the AI model?
 
@@ -89,7 +89,7 @@ Holdings and performance data require an internet connection. If data fails to l
 ## Compatibility
 
 - iOS 18.0 or later
-- iPhone
+- iPhone and iPad
 
 ## Contact Us
 
