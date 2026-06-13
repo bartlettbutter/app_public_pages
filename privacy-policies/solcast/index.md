@@ -11,14 +11,11 @@ Solcast ("the App") is a free iOS application that provides personalized weather
 
 ## The Short Version
 
-- We collect **no personal data** — no accounts, no analytics, no tracking, no ads.
-- Your location is used **only** to fetch weather and is **never stored** on any server.
-- All recommendations are computed **entirely on your device**.
-- You can delete all local data at any time by removing the app.
+We collect no personal data. There are no accounts, no analytics, no tracking, and no ads. Your location is used only to fetch weather and is never stored on any server. All recommendations are computed entirely on your device. You can delete all local data at any time by removing the app.
 
 ## Data We Collect
 
-**None.** The App has no user accounts, no analytics SDKs, no advertising frameworks, and no tracking of any kind. We do not collect, store, or transmit any personal data.
+None. The App has no user accounts, no analytics SDKs, no advertising frameworks, and no tracking of any kind. We do not collect, store, or transmit any personal data.
 
 ## How the App Uses Data on Your Device
 
@@ -40,7 +37,7 @@ All lifestyle index calculations, outfit recommendations, and daily briefings ar
 
 The App requests one device permission:
 
-- **Location (When In Use)** — Used to determine your current position and fetch accurate weather, air quality, and pollen data. Your coordinates are sent only to the weather services listed below and are never stored on any server we control.
+- **Location (When In Use)** is used to determine your current position and fetch accurate weather, air quality, and pollen data. Your coordinates are sent only to the weather services listed below and are never stored on any server we control.
 
 No other permissions (camera, contacts, microphone, tracking, notifications, etc.) are requested.
 
@@ -74,7 +71,7 @@ The App does not collect any information from anyone, including children under 1
 
 ## Changes to This Policy
 
-If we update this policy, the revised version will be posted on this page with an updated effective date. We encourage you to review this page periodically.
+If we update this policy, the revised version will be posted on this page with an updated effective date.
 
 ## Contact Us
 

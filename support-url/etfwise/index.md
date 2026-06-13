@@ -5,13 +5,13 @@ app_icon: /app_public_pages/support-url/etfwise/icon_ETFWise.png
 app_description: "Support"
 ---
 
-We're here to help you get the most out of ETFWise. Browse the answers below, or reach out directly — we're happy to assist.
+We're here to help you get the most out of ETFWise. Browse the answers below, or reach out directly if you can't find what you need.
 
 ## Getting Started
 
 ### How do the daily recommendations work?
 
-Each day, ETFWise selects top ETFs across seven categories (Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend) based on live market data. The list is pinned for the full day so your view stays stable — only prices and sentiment refresh automatically every 5 minutes. Tap "See More" on any section to explore subcategories.
+Each day, ETFWise selects top ETFs across seven categories (Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend) based on live market data. The list is pinned for the full day so your view stays stable, while prices and sentiment refresh automatically every 5 minutes. Tap "See More" on any section to explore subcategories.
 
 ### Do I need an API key?
 
@@ -19,7 +19,7 @@ A free Finnhub API key unlocks live prices, news, and analyst data. You can get 
 
 ### Do I need an internet connection?
 
-Yes, for live prices, news, sentiment, and fund data. However, the on-device AI model runs entirely offline once downloaded — no internet needed for AI-generated analysis.
+Yes, for live prices, news, sentiment, and fund data. However, the on-device AI model runs entirely offline once downloaded, so no internet is needed for AI-generated analysis.
 
 ### How much does ETFWise cost?
 
@@ -41,11 +41,11 @@ ETFWise is free to download from the App Store. There are no subscriptions and n
 
 ### What is the on-device AI?
 
-ETFWise includes a lightweight language model that runs locally on your device. It generates bull cases and risk cases using the real data shown on screen — price, returns, sentiment, and news. All processing happens on your device. Nothing is sent to external servers.
+ETFWise includes a lightweight language model that runs locally on your device. It generates bull cases and risk cases using the real data shown on screen, including price, returns, sentiment, and news. All processing happens on your device and nothing is sent to external servers.
 
 ### How do I download the AI model?
 
-If the model isn't pre-installed, you'll see a "Download Model" card on the main screen and in ETF detail views. Tap it to download (~290 MB). A progress bar shows the download status. Once complete, the model is saved locally for future use.
+If the model isn't pre-installed, you'll see a "Download Model" card on the main screen and in ETF detail views. Tap it to download (approximately 290 MB). A progress bar shows the download status. Once complete, the model is saved locally for future use.
 
 ### How does news sentiment work?
 
@@ -63,9 +63,7 @@ Yes. No accounts, no analytics, no tracking. Only ticker symbols are sent to fin
 
 ### Prices aren't loading
 
-- Make sure you've entered a valid Finnhub API key (get a free one at [finnhub.io](https://finnhub.io))
-- Check that your device is connected to the internet
-- If you skipped the API key step, the app shows demo data instead of live prices — this is expected behavior
+Make sure you've entered a valid Finnhub API key (get a free one at [finnhub.io](https://finnhub.io)) and check that your device is connected to the internet. If you skipped the API key step, the app shows demo data instead of live prices, which is expected behavior.
 
 ### "Unable to load ETF data" error
 
@@ -81,15 +79,11 @@ Holdings and performance data require an internet connection. If data fails to l
 
 ### The app is crashing or freezing
 
-- Make sure you're running the latest version from the App Store
-- Force-close the app and reopen it
-- Restart your device
-- If the problem continues, please contact us below
+Make sure you're running the latest version from the App Store, then force-close the app and reopen it. If the problem continues, restart your device. If it still persists, please contact us below.
 
 ## Compatibility
 
-- iOS 18.0 or later
-- iPhone and iPad
+ETFWise requires iOS 18.0 or later and runs on both iPhone and iPad.
 
 ## Contact Us
 

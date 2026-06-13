@@ -11,14 +11,11 @@ Huepick ("the App") is a free iOS application that extracts colors from photos a
 
 ## The Short Version
 
-- We collect **no personal data** — no accounts, no analytics, no tracking, no ads.
-- Your photos are processed **entirely on your device** and are never uploaded anywhere.
-- All color extraction and palette generation works **completely offline**.
-- The only network request is an optional geocoding lookup to display a place name on saved palettes.
+We collect no personal data. There are no accounts, no analytics, no tracking, and no ads. Your photos are processed entirely on your device and are never uploaded anywhere. All color extraction and palette generation works completely offline. The only network request is an optional geocoding lookup to display a place name on saved palettes.
 
 ## Data We Collect
 
-**None.** We do not collect, store, or transmit any personal data from you. The App has no user accounts, no analytics, and no advertising.
+None. We do not collect, store, or transmit any personal data from you. The App has no user accounts, no analytics, and no advertising.
 
 ## Photos
 
@@ -26,7 +23,7 @@ Photos you take or select are processed entirely on your device using on-device 
 
 ## Photo Metadata
 
-When you save a palette, the App may read the date and location already embedded in your photo's metadata. If location data is present, the App uses Apple's geocoding service to convert coordinates into a place name (e.g., "Seattle, WA") displayed alongside your saved palette. Only the coordinates are sent to Apple for this conversion — no photos, personal data, or device identifiers are included. This feature is optional and only activates when your photo already contains location data.
+When you save a palette, the App may read the date and location already embedded in your photo's metadata. If location data is present, the App uses Apple's geocoding service to convert coordinates into a place name (such as "Seattle, WA") displayed alongside your saved palette. Only the coordinates are sent to Apple for this conversion. No photos, personal data, or device identifiers are included. This feature is optional and only activates when your photo already contains location data.
 
 ## Saved Palettes
 
@@ -48,10 +45,10 @@ We do not sell, rent, or share your data with any third parties.
 
 | Permission | Why We Ask | Required? |
 |------------|-----------|-----------|
-| Camera | To capture photos for color extraction | Optional — you can use your photo library instead |
+| Camera | To capture photos for color extraction | Optional (you can use your photo library instead) |
 | Photo Library | To select existing photos for color extraction | Optional |
 
-No other permissions (location, contacts, microphone, tracking, notifications, etc.) are requested. The App does not access your live location — it only reads location data already embedded in your photos' metadata.
+No other permissions are requested. The App does not access your live location. It only reads location data already embedded in your photos' metadata.
 
 ## Data Retention and Deletion
 

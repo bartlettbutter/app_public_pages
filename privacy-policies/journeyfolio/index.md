@@ -11,18 +11,15 @@ Journeyfolio is a paid iOS application that helps you plan and organize trips. Y
 
 ## The Short Version
 
-- We collect **no personal data** — no accounts, no analytics, no tracking, no ads.
-- Your trip data stays **entirely on your device** — there is no cloud sync.
-- The app does **not** access your GPS location or track your movements.
-- Network requests are made only to fetch weather, flight info, and holiday data for destinations you add.
+We collect no personal data. There are no accounts, no analytics, no tracking, and no ads. Your trip data stays entirely on your device with no cloud sync. The app does not access your GPS location or track your movements. Network requests are made only to fetch weather, flight info, and holiday data for destinations you add.
 
 ## What Data We Collect
 
-**None.** We do not collect, store, or transmit any personal data to our own servers. Journeyfolio has no user accounts, no analytics, no advertising SDKs, and no tracking of any kind.
+None. We do not collect, store, or transmit any personal data to our own servers. Journeyfolio has no user accounts, no analytics, no advertising SDKs, and no tracking of any kind.
 
 ## Trip & Activity Data
 
-All trip information you create — destinations, dates, activities, flight numbers, seat numbers, confirmation numbers, hotel details, and notes — is stored locally on your device. This data never leaves your device except when communicating with the third-party services described below to fetch content you've requested.
+All trip information you create, including destinations, dates, activities, flight numbers, seat numbers, confirmation numbers, hotel details, and notes, is stored locally on your device. This data never leaves your device except when communicating with the third-party services described below to fetch content you've requested.
 
 ## Location Data
 
@@ -34,7 +31,7 @@ No other location data is collected or transmitted.
 
 ## Third-Party Services
 
-The app connects to the following services solely to fetch content for display. No personal data or device identifiers are sent — only the minimum information needed to fulfill each request.
+The app connects to the following services solely to fetch content for display. No personal data or device identifiers are sent, only the minimum information needed to fulfill each request.
 
 | Service | Purpose | Data Sent | Privacy Info |
 |---------|---------|-----------|--------------|
@@ -55,7 +52,7 @@ Journeyfolio does not request any special device permissions. No camera, locatio
 
 Your trip data persists on your device until you delete it within the app or uninstall the app. Uninstalling permanently removes all stored data. There is no cloud backup or sync.
 
-**You are in full control.** Delete any trip or activity at any time by swiping left within the app.
+You are in full control. Delete any trip or activity at any time by swiping left within the app.
 
 ## Your Rights
 
@@ -67,7 +64,7 @@ Journeyfolio does not knowingly collect information from anyone, including child
 
 ## Changes to This Policy
 
-If we update this policy, the revised version will be posted on this page with an updated effective date. We encourage you to review this page periodically.
+If we update this policy, the revised version will be posted on this page with an updated effective date.
 
 ## Contact Us
 

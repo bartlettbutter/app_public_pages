@@ -11,7 +11,7 @@ We're here to help you get the most out of Huepick. Browse the answers below, or
 
 ### How does color extraction work?
 
-Huepick analyzes your photo on-device to identify up to 12 dominant colors. All image processing happens locally — your photos are never uploaded anywhere.
+Huepick analyzes your photo on-device to identify up to 12 dominant colors. All image processing happens locally and your photos are never uploaded anywhere.
 
 ### Do I need an internet connection?
 
@@ -19,7 +19,7 @@ Color extraction, palette generation, saving, and editing all work offline. The 
 
 ### Is Huepick free?
 
-Yes — completely free with no in-app purchases, no subscriptions, and no ads.
+Yes, completely free with no in-app purchases, no subscriptions, and no ads.
 
 ## Frequently Asked Questions
 
@@ -27,22 +27,22 @@ Yes — completely free with no in-app purchases, no subscriptions, and no ads.
 
 Six types based on classical color theory:
 
-- **Complementary** — Colors opposite on the color wheel for bold contrast
-- **Analogous** — Neighboring colors for a harmonious, serene feel
-- **Triadic** — Three evenly spaced colors for vibrant balance
-- **Split Complementary** — A color plus two adjacent to its complement
-- **Tetradic** — Two complementary pairs for a rich, diverse palette
-- **Monochromatic** — Variations of one hue for elegant cohesion
+- **Complementary** uses colors opposite on the color wheel for bold contrast
+- **Analogous** uses neighboring colors for a harmonious, serene feel
+- **Triadic** uses three evenly spaced colors for vibrant balance
+- **Split Complementary** uses a color plus two adjacent to its complement
+- **Tetradic** uses two complementary pairs for a rich, diverse palette
+- **Monochromatic** uses variations of one hue for elegant cohesion
 
 ### What are the use cases?
 
 Each tailors your palette for a specific real-world scenario with meaningful color roles:
 
-- **Home Decor** — Wall, floor, and accent colors
-- **Car Interior** — Panel, seat, and accent colors
-- **Fashion** — Hair, skin, top, bottom, accent, and accessory colors
-- **Makeup** — Skin, lip, eye, blush, contour, and highlight colors
-- **UI & Graphic Design** — Primary, secondary, accent, surface, background, and text colors
+- **Home Decor** generates wall, floor, and accent colors
+- **Car Interior** generates panel, seat, and accent colors
+- **Fashion** generates hair, skin, top, bottom, accent, and accessory colors
+- **Makeup** generates skin, lip, eye, blush, contour, and highlight colors
+- **UI & Graphic Design** generates primary, secondary, accent, surface, background, and text colors
 
 ### How do I copy a hex code?
 
@@ -58,8 +58,7 @@ All saved palettes are stored locally on your device. Nothing is sent to externa
 
 ### How do I delete or pin palettes?
 
-- **Delete:** Swipe left on a palette in the Gallery. You'll be asked to confirm.
-- **Pin:** Pin palettes to keep them at the top of your Gallery for quick access.
+To delete a palette, swipe left on it in the Gallery. You'll be asked to confirm. To keep a palette easily accessible, pin it so it stays at the top of your Gallery.
 
 ### Is my data private?
 
@@ -69,27 +68,19 @@ Yes. Your photos never leave your device and no personal data is collected. See 
 
 ### The camera isn't working
 
-- Make sure you've granted Huepick camera access in **Settings > Huepick > Camera**
-- If the issue persists, try force-closing and reopening the app
+Open Settings, then navigate to Huepick and make sure Camera access is toggled on. If the issue persists, try force-closing and reopening the app.
 
 ### Colors don't look accurate
 
-Color extraction works best with clear, well-lit photos. Try:
-
-- Better lighting (natural light is ideal)
-- A different angle
-- Avoiding very dark or very bright images, which may produce less distinct colors
+Color extraction works best with clear, well-lit photos. Try better lighting (natural light is ideal), a different angle, or avoid very dark or very bright images which may produce less distinct colors.
 
 ### The app is crashing
 
-- Make sure you're running the latest version from the App Store
-- Restart your device
-- If the problem continues, please contact us below
+Make sure you're running the latest version from the App Store, then restart your device. If the problem continues, please contact us below.
 
 ## Compatibility
 
-- iOS 18.6 or later
-- iPhone and iPad
+Huepick requires iOS 18.6 or later and runs on both iPhone and iPad.
 
 ## Contact Us
 

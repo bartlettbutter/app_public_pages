@@ -11,18 +11,15 @@ Barkpedia ("the App") is a free iOS application that identifies dog breeds from 
 
 ## The Short Version
 
-- We collect **no personal data** — no accounts, no analytics, no tracking, no ads.
-- Your photos are processed **entirely on your device** and never leave it.
-- Breed identification works **completely offline**.
-- The only network requests are to fetch breed information, images, and game content for display.
+We collect no personal data. There are no accounts, no analytics, no tracking, and no ads. Your photos are processed entirely on your device and never leave it. Breed identification works completely offline. The only network requests the App makes are to fetch breed information, images, and game content for display.
 
 ## Data We Collect
 
-**None.** We do not collect, store, or transmit any personal data. The App contains no user accounts, no analytics SDKs, no advertising frameworks, and no third-party tracking tools.
+None. We do not collect, store, or transmit any personal data. The App contains no user accounts, no analytics SDKs, no advertising frameworks, and no third-party tracking tools.
 
 ## Photos and Camera/Library Access
 
-The App requests camera and photo library permissions solely to let you photograph or select images of dogs for breed identification. Photos you take or select are analyzed entirely on your device using on-device machine learning. **Your photos are never uploaded to any server.**
+The App requests camera and photo library permissions solely to let you photograph or select images of dogs for breed identification. Photos you take or select are analyzed entirely on your device using on-device machine learning. Your photos are never uploaded to any server.
 
 ## Locally Stored Data
 
@@ -30,7 +27,7 @@ Breed scan results you save to Favorites are stored on your device only. This da
 
 ## Third-Party Services
 
-The App connects to the following services solely to fetch display content (breed information, images, and game data):
+The App connects to the following services solely to fetch display content such as breed information, images, and game data:
 
 | Service | Purpose | Data Sent | Privacy Info |
 |---------|---------|-----------|--------------|
@@ -49,14 +46,14 @@ We do not sell, rent, or share any user data with third parties. There is no dat
 
 | Permission | Why We Ask | Required? |
 |------------|-----------|-----------|
-| Camera | To photograph dogs for breed identification | Optional — you can use your photo library instead |
-| Photo Library | To select existing photos for breed identification | Optional — you can use the camera instead |
+| Camera | To photograph dogs for breed identification | Optional (you can use your photo library instead) |
+| Photo Library | To select existing photos for breed identification | Optional (you can use the camera instead) |
 
-No other permissions (location, contacts, microphone, tracking, notifications, etc.) are requested or accessed.
+No other permissions are requested or accessed. The App does not use location, contacts, microphone, tracking, notifications, or any other sensitive access.
 
 ## Data Retention and Deletion
 
-Since we collect no data on our servers, there is nothing to retain or delete on our end. All locally stored data (favorites, scan history) is automatically removed when you delete the App from your device.
+Since we collect no data on our servers, there is nothing to retain or delete on our end. All locally stored data, including favorites and scan history, is automatically removed when you delete the App from your device.
 
 ## Your Rights
 

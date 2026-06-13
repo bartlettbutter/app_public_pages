@@ -2,42 +2,45 @@
 layout: default
 title: Nekopedia
 app_icon: /app_public_pages/marketing-url/nekopedia/icon_Nekopedia.png
-app_description: "Identify any cat breed instantly from a photo. Free, offline, powered by on-device ML."
+app_description: "Identify any cat breed instantly. Free, offline, and private."
 ---
 
 # What breed is that cat? Just point your camera.
 
-Nekopedia identifies any cat breed instantly using on-device machine learning. Snap a photo or pick one from your library. No internet needed, no account required, and completely free.
+Nekopedia identifies cat breeds instantly using on-device machine learning. Snap a photo or pick one from your library and get a match from 48 recognized breeds in seconds. No internet needed, no account required, and completely free.
 
-## Why Nekopedia?
+## Why cat lovers choose Nekopedia
 
-- **Instant Breed ID** — Point your camera at any cat and get a match in seconds, powered by on-device machine learning. Everything runs on your device.
-- **Breed ID Works Offline** — No Wi-Fi? No problem. Breed identification and saved favorites work anywhere.
-- **100% Free** — No in-app purchases, no subscriptions, no hidden costs.
+Whether you're at a café, visiting a shelter, or meeting a friend's new kitten, Nekopedia satisfies your curiosity in seconds. Just snap a photo and instantly learn the breed, personality traits, and backstory of any cat you meet.
 
-## More to Explore
+It works anywhere, even without Wi-Fi, because everything runs on your device. There are no subscriptions, no in-app purchases, and no ads. Download it once and use it forever. And since your photos never leave your phone, your privacy is always protected.
 
-- **Breed Details** — Get detailed profiles with photos, temperament, origin, and key characteristics for any breed you scan.
-- **Favorites** — Save your scan results to revisit later. All stored locally on your device.
-- **Breed Quiz** — Test your cat breed knowledge with a fun photo quiz.
-- **Cat Trivia** — Challenge yourself with true-or-false cat facts and earn reward titles.
+## More to discover
 
-## How It Works
+Nekopedia goes beyond identification. Every breed you scan comes with a detailed profile including temperament, origin, history, life span, weight, height, and photos, covering all 48 breeds.
 
-1. **Open the app** — no account needed
-2. **Point your camera** at any cat (or pick a photo from your library)
-3. **Get instant results** — breed name, confidence score, and details
+Want to browse? The Explore tab lets you search all 48 breeds by name or explore an interactive world map showing where each breed originated. You can also save your scan results to Favorites and revisit them anytime, all stored locally on your device.
 
-## Your Privacy, Protected
+For a challenge, try the Breed Quiz. Each round has 10 questions where you guess the breed from a photo and four choices. Think you know your Siamese from your Birman? Put your knowledge to the test and earn reward titles. Or play Cat Trivia, true-or-false rounds mixing real cat facts with plausible myths to see how well you really know cats.
+
+## How it works
+
+1. **Open the app** and you're ready in seconds, no sign-up needed
+2. **Snap a photo** of any cat, or choose one from your library
+3. **Get your result** including the breed name, confidence score, alternative matches, and a detailed breed profile
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
+
+## Compatibility
+
+iOS 16.0 or later · iPhone and iPad
+
+## Your privacy, protected
 
 Your photos never leave your device. No accounts, no analytics, no ads. Just you and the cats.
 
 Read our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/nekopedia/).
 
-## Compatibility
-
-Nekopedia requires iOS 16.0 or later.
-
-## Need Help?
+## Need help?
 
 Visit our [Support Page](https://bartlettbutter.github.io/app_public_pages/support-url/nekopedia/) or email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).

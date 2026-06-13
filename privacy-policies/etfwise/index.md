@@ -11,14 +11,11 @@ ETFWise ("the App") is a free iOS application that provides daily ETF recommenda
 
 ## The Short Version
 
-- We collect **no personal data** — no accounts, no analytics, no tracking, no ads.
-- AI analysis runs **entirely on your device** — no prompts or outputs are sent to any server.
-- The only data sent externally is **ETF ticker symbols** to fetch market data.
-- Your Finnhub API key is stored securely on-device and sent only to Finnhub.
+We collect no personal data. There are no accounts, no analytics, no tracking, and no ads. AI analysis runs entirely on your device and no prompts or outputs are sent to any server. The only data sent externally is ETF ticker symbols to fetch market data. Your Finnhub API key is stored securely on-device and sent only to Finnhub.
 
 ## What Data We Collect
 
-**None.** We do not collect, store, or transmit any personal information to our servers. ETFWise has no user accounts, no usage analytics, and no advertising or tracking frameworks.
+None. We do not collect, store, or transmit any personal information to our servers. ETFWise has no user accounts, no usage analytics, and no advertising or tracking frameworks.
 
 ## What Stays on Your Device
 
@@ -33,18 +30,18 @@ This data is refreshed daily and is never uploaded to external servers.
 
 ## Third-Party Services
 
-ETFWise connects to financial data providers solely to fetch market data for display. The only information sent is **ETF ticker symbols and date ranges** — no personal data, device identifiers, or location information is transmitted.
+ETFWise connects to financial data providers solely to fetch market data for display. The only information sent is ETF ticker symbols and date ranges. No personal data, device identifiers, or location information is transmitted.
 
 | Service | What It Provides | Data Sent | Privacy Info |
 |---|---|---|---|
 | Finnhub | Real-time quotes, news, sentiment, analyst data | Ticker symbols, date ranges, your API key | [Privacy Policy](https://finnhub.io/privacy-policy) |
 | Yahoo Finance | Fund size, holdings, sector weights, performance | Ticker symbols | [Privacy Policy](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) |
-| Polymarket | Prediction market probabilities | Nothing personal — public event data | [Privacy Policy](https://polymarket.com/privacy) |
-| HuggingFace | Hosts the AI model file for one-time download | Nothing personal — model file only | [Privacy Policy](https://huggingface.co/privacy) |
+| Polymarket | Prediction market probabilities | Public event data only | [Privacy Policy](https://polymarket.com/privacy) |
+| HuggingFace | Hosts the AI model file for one-time download | Model file download only | [Privacy Policy](https://huggingface.co/privacy) |
 
 ## On-Device AI Processing
 
-The AI model runs entirely on your device. All inference — including bull cases, risk cases, and fund descriptions — happens locally. No prompts, inputs, or outputs are sent to any external server for AI processing.
+The AI model runs entirely on your device. All inference, including bull cases, risk cases, and fund descriptions, happens locally. No prompts, inputs, or outputs are sent to any external server for AI processing.
 
 ## API Key Security
 
@@ -60,7 +57,7 @@ ETFWise does not request access to your camera, location, contacts, microphone, 
 
 ## Data Retention and Deletion
 
-Since we collect no personal data on our servers, there is nothing to retain or delete on our end. All locally stored data — including recommendations, cached prices, AI analysis, and your API key — is permanently removed when you delete the app from your device.
+Since we collect no personal data on our servers, there is nothing to retain or delete on our end. All locally stored data, including recommendations, cached prices, AI analysis, and your API key, is permanently removed when you delete the app from your device.
 
 ## Your Rights
 
@@ -72,7 +69,7 @@ ETFWise does not knowingly collect personal information from anyone, including c
 
 ## Changes to This Policy
 
-If we update this policy, the revised version will be posted on this page with an updated effective date. We encourage you to review this page periodically.
+If we update this policy, the revised version will be posted on this page with an updated effective date.
 
 ## Contact Us
 

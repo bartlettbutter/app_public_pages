@@ -5,7 +5,7 @@ app_icon: /app_public_pages/support-url/journeyfolio/icon_Journeyfolio.png
 app_description: "Support"
 ---
 
-We're here to help you get the most out of Journeyfolio. Browse the answers below, or reach out directly — we're happy to assist.
+We're here to help you get the most out of Journeyfolio. Browse the answers below, or reach out directly if you can't find what you need.
 
 ## Getting Started
 
@@ -35,13 +35,13 @@ Yes. Add multiple destination cities to a single trip. Each city gets its own it
 
 Seven categories cover everything:
 
-- **Flights** — Flight number, seat, confirmation number, and live status
-- **Hotels** — Address, phone, check-in/check-out dates, and notes
-- **Transport** — Car rentals, trains, buses, ferries, rideshares, subways, shuttles
-- **Restaurants** — Address and phone number
-- **Places & Tickets** — Attractions, museums, events, tours, parks, shopping
-- **Insurance** — Travel insurance details
-- **Other** — Anything else
+- **Flights** including flight number, seat, confirmation number, and live status
+- **Hotels** including address, phone, check-in/check-out dates, and notes
+- **Transport** including car rentals, trains, buses, ferries, rideshares, subways, and shuttles
+- **Restaurants** including address and phone number
+- **Places & Tickets** including attractions, museums, events, tours, parks, and shopping
+- **Insurance** for travel insurance details
+- **Other** for anything else
 
 ### Can activities span multiple days?
 
@@ -67,31 +67,21 @@ Journeyfolio automatically displays public holidays for your destination's count
 
 ### Do I need an internet connection?
 
-Your trip data is always accessible offline. An internet connection is only needed for:
-- Live weather forecasts
-- Flight verification and status updates
-- Public holiday information
-- Location search
+Your trip data is always accessible offline. An internet connection is only needed for live weather forecasts, flight verification and status updates, public holiday information, and location search.
 
 ### How do I pin or delete a trip?
 
-- **Pin:** Swipe right on a trip to pin it to the top of your list.
-- **Delete:** Swipe left on a trip or activity. A confirmation prompt appears before deletion.
+Swipe right on a trip to pin it to the top of your list. Swipe left on a trip or activity to delete it. A confirmation prompt appears before deletion.
 
 ## Troubleshooting
 
 ### Weather forecasts aren't loading
 
-- Check that your device has an internet connection
-- Verify the destination city name is correct
-- Try again in a few minutes — the weather service may be temporarily unavailable
+Check that your device has an internet connection and verify the destination city name is correct. If it still doesn't load, try again in a few minutes as the weather service may be temporarily unavailable.
 
 ### Flight verification says "No flight found"
 
-- Double-check the flight number format (e.g., "JL001" or "AA100")
-- Confirm the departure date is correct
-- Verification covers 3 months past to 12 months future
-- Some regional or charter flights may not be in the database
+Double-check the flight number format (e.g., "JL001" or "AA100") and confirm the departure date is correct. Verification covers 3 months past to 12 months future. Some regional or charter flights may not be in the database.
 
 ### Flight status isn't showing
 
@@ -99,8 +89,7 @@ Live status badges only appear for flights within approximately 24 hours of depa
 
 ### Location search isn't returning results
 
-- Ensure you have an internet connection
-- Try a more specific term (e.g., "Hilton Tokyo" instead of "hotel")
+Ensure you have an internet connection and try a more specific term (e.g., "Hilton Tokyo" instead of "hotel").
 
 ### Public holidays aren't showing
 
@@ -112,14 +101,11 @@ Trip data is preserved across app updates. Try restarting the app or your device
 
 ### The app is crashing or behaving unexpectedly
 
-- Make sure you're running the latest version from the App Store
-- Restart the app, then restart your device
-- If the issue persists, email us with a description of what happened
+Make sure you're running the latest version from the App Store, then restart the app and your device. If the issue persists, email us with a description of what happened.
 
 ## Compatibility
 
-- iOS 18.0 or later
-- iPhone
+Journeyfolio requires iOS 18.0 or later and runs on iPhone.
 
 ## Contact Us
 
@@ -127,7 +113,4 @@ Can't find what you're looking for? We'd love to hear from you.
 
 **Email:** [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com)
 
-We aim to respond within 48 hours. When writing, please include:
-- Your device model and iOS version
-- A brief description of the issue
-- Steps to reproduce the problem (if applicable)
+We aim to respond within 48 hours. When writing, please include your device model and iOS version, a brief description of the issue, and steps to reproduce the problem if applicable.

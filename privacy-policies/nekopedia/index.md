@@ -5,50 +5,61 @@ app_icon: /app_public_pages/privacy-policies/nekopedia/icon_Nekopedia.png
 app_description: "Privacy Policy"
 ---
 
-**Effective Date:** April 22, 2026
+**Effective Date:** June 13, 2026
 
-Nekopedia ("the App") is a free iOS application that identifies cat breeds from photos. Your privacy is important to us. This policy explains how the App handles your information.
+Nekopedia ("the App") is a free iOS application that identifies cat breeds from photos. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
+
+## The Short Version
+
+We collect no personal data. There are no accounts, no analytics, no tracking, and no ads. Your photos are processed entirely on your device and never leave it. Breed identification works completely offline. The only network requests the App makes are to fetch breed information, images, and game content for display.
 
 ## Data We Collect
 
-We do not collect, store, or transmit any personal data from you. The App has no user accounts, no analytics, and no advertising.
+None. We do not collect, store, or transmit any personal data. The App contains no user accounts, no analytics SDKs, no advertising frameworks, and no third-party tracking tools.
 
-## Photos
+## Photos and Camera/Library Access
 
-Photos you take or select are processed entirely on your device using on-device machine learning. Your photos are never uploaded to any server.
+The App requests camera and photo library permissions solely to let you photograph or select images of cats for breed identification. Photos you take or select are analyzed entirely on your device using on-device machine learning. Your photos are never uploaded to any server.
 
-## Scan History
+## Locally Stored Data
 
-Breed scan results you save to Favorites are stored locally on your device. This data never leaves your device.
+Breed scan results you save to Favorites are stored on your device only. This data is never transmitted externally and can be removed at any time by deleting the App.
 
 ## Third-Party Services
 
-The App connects to the following third-party services solely to fetch content for display:
+The App connects to the following services solely to fetch display content such as breed information, images, and game data:
 
-- **The Cat API** (https://thecatapi.com) — provides breed information, images, and quiz content.
-- **catfact.ninja** (https://catfact.ninja) — provides cat facts for the trivia feature.
+| Service | Purpose | Data Sent | Privacy Info |
+|---------|---------|-----------|--------------|
+| The Cat API | Breed information (temperament, stats, history) and quiz photos | None | [thecatapi.com](https://thecatapi.com) |
+| catfact.ninja | Cat facts for the trivia feature | None | [catfact.ninja](https://catfact.ninja) |
 
-These requests fetch content only. No personal data or device identifiers are sent to these services.
+These are standard content-fetch requests. No personal data, device identifiers, or tracking information is included.
 
 ## Data Sharing
 
-We do not sell, rent, or share your data with any third parties.
+We do not sell, rent, or share any user data with third parties. There is no data to share.
 
 ## Permissions
 
-The App requests the following device permission:
+| Permission | Why We Ask | Required? |
+|------------|-----------|-----------|
+| Camera | To photograph cats for breed identification | Optional (you can use your photo library instead) |
+| Photo Library | To select existing photos for breed identification | Optional (you can use the camera instead) |
 
-- **Camera** — Used to take photos of cats for breed identification. Photos are processed entirely on your device and are never uploaded to any server.
-
-No other permissions (location, contacts, microphone, tracking, notifications, etc.) are requested.
+No other permissions are requested or accessed. The App does not use location, contacts, microphone, tracking, notifications, or any other sensitive access.
 
 ## Data Retention and Deletion
 
-Since we do not collect or store any personal data on our servers, there is no user data to retain or delete. All data stored locally on your device (scan history, favorites) can be removed at any time by deleting the App from your device.
+Since we collect no data on our servers, there is nothing to retain or delete on our end. All locally stored data, including favorites and scan history, is automatically removed when you delete the App from your device.
+
+## Your Rights
+
+Since Nekopedia collects no personal data, there is no user data to access, export, correct, or delete from our systems. You maintain full control over all locally stored data on your device.
 
 ## Children's Privacy
 
-The App does not knowingly collect any information from anyone, including children under 13. Because the App collects no personal data, it is safe for users of all ages.
+The App does not collect any information from anyone, including children under 13. Because no personal data is collected, the App is safe for users of all ages and complies with COPPA requirements.
 
 ## Changes to This Policy
 
