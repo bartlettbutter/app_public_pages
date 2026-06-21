@@ -7,7 +7,7 @@ app_description: "Privacy Policy"
 
 **Effective Date:** May 16, 2026
 
-Solcast ("the App") is a free iOS application that provides personalized weather forecasts, lifestyle indices, and outfit recommendations. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
+Solcast ("the App") is a free iOS and iPadOS application that provides personalized weather forecasts, lifestyle indices, and outfit recommendations. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
 
 ## The Short Version
 
@@ -15,13 +15,13 @@ We collect no personal data. There are no accounts, no analytics, no tracking, a
 
 ## Data We Collect
 
-None. The App has no user accounts, no analytics SDKs, no advertising frameworks, and no tracking of any kind. We do not collect, store, or transmit any personal data.
+None. The App has no user accounts, no analytics, no advertising, and no tracking of any kind. We do not collect, store, or transmit any personal data.
 
 ## How the App Uses Data on Your Device
 
 ### Location Data
 
-The App uses your device's location solely to retrieve weather forecasts for your area. Location coordinates are sent only to the weather services listed below. Your location is never stored on any server we control.
+The App uses your device's location solely to retrieve weather forecasts for your area. Location coordinates are sent only to the weather and environmental data services listed below. Your location is never stored on any server we control.
 
 Saved locations are stored locally on your device and are never transmitted externally except as coordinates in weather data requests.
 
@@ -37,25 +37,26 @@ All lifestyle index calculations, outfit recommendations, and daily briefings ar
 
 The App requests one device permission:
 
-- **Location (When In Use)** is used to determine your current position and fetch accurate weather, air quality, and pollen data. Your coordinates are sent only to the weather services listed below and are never stored on any server we control.
+**Location (When In Use)** is used to determine your current position and fetch accurate weather, air quality, and pollen data. Your coordinates are sent only to the services listed below and are never stored on any server we control.
 
 No other permissions (camera, contacts, microphone, tracking, notifications, etc.) are requested.
 
 ## Third-Party Services
 
-The App connects to the following services solely to fetch weather and environmental data:
+The App connects to the following services solely to fetch weather, environmental, and public holiday data:
 
 | Service | Purpose | Data Sent | Privacy Info |
 |---------|---------|-----------|--------------|
 | Apple Weather | Weather forecasts | Geographic coordinates only | [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) |
-| Open-Meteo | Fallback weather, air quality, pollen | Geographic coordinates only | [Open-Meteo's Terms](https://open-meteo.com/en/terms) |
+| Open-Meteo | Weather forecasts, air quality, pollen | Geographic coordinates only | [Open-Meteo's Terms](https://open-meteo.com/en/terms) |
 | Apple Maps | Location search and reverse geocoding | Geographic coordinates only | [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) |
+| Nager.Date | Public holiday detection | Country code only | [Nager.Date on GitHub](https://github.com/nager/Nager.Date) |
 
 No personal data, device identifiers, or user preferences are sent to these services.
 
 ## Data Sharing
 
-We do not sell, rent, or share your data with any third parties. The only external communication the App makes is sending geographic coordinates to the weather services listed above.
+We do not sell, rent, or share your data with any third parties. The only external communication the App makes is sending geographic coordinates to weather services and a country code to the holiday service as listed above.
 
 ## Data Retention and Deletion
 

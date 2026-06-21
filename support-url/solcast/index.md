@@ -19,9 +19,11 @@ No account creation or login is required. All features are immediately accessibl
 
 Open Settings to configure 11 options across three sections:
 
-- **About You** covers temperature unit, temperature sensitivity, sun sensitivity, eye sensitivity, allergy sensitivity, and migraine sensitivity
-- **Your Style** covers dressing style and outdoor exercise preference
-- **Your Household** covers kids, pets, and cars
+**About You** covers temperature unit, temperature sensitivity, sun sensitivity, eye sensitivity, allergy sensitivity, and migraine sensitivity.
+
+**Your Style** covers dressing style and outdoor exercise preference.
+
+**Your Household** covers kids, pets, and cars.
 
 Changes take effect instantly with no reload needed.
 
@@ -33,7 +35,7 @@ Up to 10 locations. Switch between them using the location picker on the dashboa
 
 ### Is Solcast free?
 
-Yes, completely free with no in-app purchases, no subscriptions, and no ads.
+Yes, completely free with no in app purchases, no subscriptions, and no ads.
 
 ### Do I need an internet connection?
 
@@ -43,11 +45,15 @@ An internet connection is needed to fetch weather data. Once loaded, cached fore
 
 None. There are no user accounts, no analytics, and no tracking. All preferences stay on your device. See our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/solcast/) for details.
 
+### Does Solcast work on iPad?
+
+Yes. Solcast supports both iPhone and iPad with a layout optimized for each device.
+
 ## Permissions
 
 ### Why does Solcast need my location?
 
-Solcast requests Location (When In Use) to fetch accurate weather, air quality, and pollen data for your area. Your coordinates are sent only to weather services (Apple Weather and Open-Meteo) and are never stored on any server. You can also add locations manually without granting location access.
+Solcast requests Location (When In Use) to fetch accurate weather, air quality, and pollen data for your area. Your coordinates are sent only to weather and environmental data services and are never stored on any server. You can also add locations manually without granting location access.
 
 ### Does Solcast access my camera, contacts, or other data?
 
@@ -57,7 +63,7 @@ No. Solcast only requests location permission. It does not access your camera, c
 
 ### Weather data isn't loading
 
-Check that your device is connected to Wi-Fi or cellular data, then pull down on the dashboard to refresh. If the problem persists, the weather service may be temporarily unavailable. Try again in a few minutes.
+Check that your device is connected to Wi Fi or cellular data, then pull down on the dashboard to refresh. If the problem persists, the weather service may be temporarily unavailable. Try again in a few minutes.
 
 ### Location isn't being detected
 
@@ -69,23 +75,24 @@ Make sure you're running the latest version of Solcast from the App Store, then 
 
 ### An index or recommendation seems inaccurate
 
-Solcast computes recommendations using real-time weather data combined with your personal settings. If something seems off, double-check your sensitivity settings (Settings > About You) and verify the correct location is selected. Note that air quality and pollen data availability may vary by region, and the app hides indices when data is unavailable for your area.
+Solcast computes recommendations using real time weather data combined with your personal settings. If something seems off, double check your sensitivity settings (Settings > About You) and verify the correct location is selected. Note that air quality and pollen data availability may vary by region, and the app hides indices when data is unavailable for your area.
 
 ## External Services
 
-Solcast uses the following services to deliver weather data:
+Solcast uses the following services to deliver weather and environmental data:
 
 | Service | Role |
 |---------|------|
-| Apple Weather | Primary weather source for temperature, wind, UV, precipitation, and sunrise/sunset |
-| Open-Meteo | Fallback weather, plus air quality (AQI, PM2.5, PM10) and pollen forecasts |
+| Apple Weather | Weather forecasts including temperature, wind, UV, precipitation, and sunrise/sunset |
+| Open-Meteo | Weather forecasts, air quality, and pollen data |
 | Apple Maps | Location search and city name display |
+| Nager.Date | Public holiday detection for your selected location |
 
 All recommendation logic runs entirely on your device with no external AI or cloud processing involved.
 
 ## Compatibility
 
-Solcast requires iOS 18.0 or later and runs on iPhone.
+Solcast requires iOS 18.0 or iPadOS 18.0 or later and runs on iPhone and iPad.
 
 ## Contact Us
 
