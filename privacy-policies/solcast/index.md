@@ -5,75 +5,97 @@ app_icon: /app_public_pages/privacy-policies/solcast/icon_Solcast.png
 app_description: "Privacy Policy"
 ---
 
-**Effective Date:** May 16, 2026
+# Privacy Policy
 
-Solcast ("the App") is a free iOS and iPadOS application that provides personalized weather forecasts, lifestyle indices, and outfit recommendations. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
+**Effective Date:** July 8, 2026
+
+Solcast ("the App") is a free weather and lifestyle guidance app for iPhone and iPad. Privacy is central to how we built it. This policy explains exactly what data is involved when you use Solcast — and, more importantly, what isn't.
 
 ## The Short Version
 
-We collect no personal data. There are no accounts, no analytics, no tracking, and no ads. Your location is used only to fetch weather and is never stored on any server. All recommendations are computed entirely on your device. You can delete all local data at any time by removing the app.
+| Question | Answer |
+|----------|--------|
+| Do you collect personal data? | No |
+| Is my location stored on your servers? | No |
+| Are there accounts or logins? | No |
+| Is there tracking or analytics? | No |
+| Are there ads? | No |
+| Is my data sold or shared? | No |
+| Is the app safe for children? | Yes |
 
-## Data We Collect
+Your location is used only to request weather data and is never stored on any server we control. All recommendations are computed on your device.
 
-None. The App has no user accounts, no analytics, no advertising, and no tracking of any kind. We do not collect, store, or transmit any personal data.
+## What Data Is Collected
 
-## How the App Uses Data on Your Device
+**None.** Solcast has no user accounts, no analytics platform, no advertising SDK, and no tracking mechanism of any kind. We do not collect, store, or transmit personal information.
 
-### Location Data
+## How the App Uses Data Locally
 
-The App uses your device's location solely to retrieve weather forecasts for your area. Location coordinates are sent only to the weather and environmental data services listed below. Your location is never stored on any server we control.
+### Location
 
-Saved locations are stored locally on your device and are never transmitted externally except as coordinates in weather data requests.
+When you grant location permission, your coordinates are sent to weather services (listed below) to retrieve forecasts for your area. Your location is never stored on our servers.
 
-### User Preferences
+Saved locations you add are stored on your device only and are not transmitted anywhere except as coordinates in weather data requests.
 
-Your personalized settings (temperature preference, dressing style, sensitivity levels, household members) are stored locally on your device. This data never leaves your device.
+### Preferences
+
+Your personalization settings (temperature unit, sensitivity levels, dressing style, household options) are stored locally on your device. They never leave your device.
 
 ### On-Device Processing
 
-All lifestyle index calculations, outfit recommendations, and daily briefings are computed entirely on your device. No personal data or preferences are sent to any server for processing.
+All lifestyle indices, outfit recommendations, and daily briefings are computed entirely on your device. No preferences, results, or personal data are sent to any external server for processing.
+
+### Temporary Cache
+
+The app keeps a short-lived, in-memory cache of weather data so you can switch between saved locations without waiting for a fresh download. This cache exists only in device memory, is never written to persistent storage, and is cleared when the app is closed.
 
 ## Permissions
 
-The App requests one device permission:
+Solcast requests one permission:
 
-**Location (When In Use)** is used to determine your current position and fetch accurate weather, air quality, and pollen data. Your coordinates are sent only to the services listed below and are never stored on any server we control.
+| Permission | Purpose |
+|------------|---------|
+| **Location (When In Use)** | Fetch weather, air quality, and pollen data for your current position |
 
-No other permissions (camera, contacts, microphone, tracking, notifications, etc.) are requested.
+No other permissions are requested — not camera, contacts, microphone, notifications, tracking, or anything else.
 
 ## Third-Party Services
 
-The App connects to the following services solely to fetch weather, environmental, and public holiday data:
+The app connects to the following services to fetch weather and environmental data:
 
-| Service | Purpose | Data Sent | Privacy Info |
-|---------|---------|-----------|--------------|
-| Apple Weather | Weather forecasts | Geographic coordinates only | [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) |
-| Open-Meteo | Weather forecasts, air quality, pollen | Geographic coordinates only | [Open-Meteo's Terms](https://open-meteo.com/en/terms) |
-| Apple Maps | Location search and reverse geocoding | Geographic coordinates only | [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) |
-| Nager.Date | Public holiday detection | Country code only | [Nager.Date on GitHub](https://github.com/nager/Nager.Date) |
+| Service | What It Provides | Data Sent |
+|---------|-----------------|-----------|
+| [Apple Weather](https://www.apple.com/legal/privacy/) | Weather forecasts and conditions | Geographic coordinates only |
+| [Open-Meteo](https://open-meteo.com/en/terms) | Supplemental forecasts, air quality, pollen | Geographic coordinates only |
+| [Apple Maps](https://www.apple.com/legal/privacy/) | Location search and city name display | Search query or coordinates only |
+| [Nager.Date](https://github.com/nager/Nager.Date) | Public holiday detection | Country code only (e.g., "US") |
 
-No personal data, device identifiers, or user preferences are sent to these services.
+**No personal data, device identifiers, advertising IDs, or user preferences are ever sent to these services.**
 
 ## Data Sharing
 
-We do not sell, rent, or share your data with any third parties. The only external communication the App makes is sending geographic coordinates to weather services and a country code to the holiday service as listed above.
+We do not sell, rent, license, or share your data with anyone. The only network traffic the app generates is fetching weather data (coordinates) and holiday data (country code) from the services listed above.
 
-## Data Retention and Deletion
+## Data Retention & Deletion
 
-Since we do not collect or store any personal data on our servers, there is no user data to retain or delete. All data stored locally on your device (preferences, saved locations, cached forecasts) can be removed at any time by deleting the App.
+We store no data on our servers, so there is nothing to retain or delete. All information on your device (preferences, saved locations, cached weather) is removed the moment you delete the app.
 
 ## Your Rights
 
-Because we collect no personal data, there is nothing to access, correct, export, or delete on our end. You have full control over all locally stored data by managing or removing the App from your device.
+Because we collect nothing, there is no personal data to access, correct, port, or erase on our end. You have complete control over everything stored locally by managing or removing the app.
 
 ## Children's Privacy
 
-The App does not collect any information from anyone, including children under 13. Because no personal data is collected, the App is safe for users of all ages.
+Solcast does not collect information from anyone, including children under 13 (or the applicable age in your jurisdiction). Because no personal data is gathered, the app is safe for users of all ages.
+
+## International Users
+
+Because Solcast collects no personal data, no cross-border transfer of personal information occurs. Weather and holiday requests contain only geographic coordinates or country codes — no personal data or device identifiers are included regardless of your location.
 
 ## Changes to This Policy
 
-If we update this policy, the revised version will be posted on this page with an updated effective date.
+If we update this policy, the revised version will be posted here with a new effective date. Continued use of the app after an update constitutes acceptance of the revised policy.
 
-## Contact Us
+## Contact
 
-If you have questions about this privacy policy, please email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).
+Questions about this privacy policy? Email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).

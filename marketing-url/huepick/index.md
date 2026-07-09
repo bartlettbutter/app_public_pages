@@ -2,45 +2,54 @@
 layout: default
 title: Huepick
 app_icon: /app_public_pages/marketing-url/huepick/icon_Huepick.png
-app_description: "Extract colors from photos and generate palettes based on color theory. Free, on-device processing."
+app_description: "Extract palettes from photos and transform images with creative tools — free, private, no account needed."
 ---
 
-# Turn everyday inspiration into perfect color palettes.
+# See colors differently.
 
-Huepick extracts dominant colors from any photo and generates harmonious palettes using color theory. All processing happens on your device. No account required, completely free.
+Snap a photo of anything that inspires you. Huepick instantly reveals the hidden palette inside and gives you creative tools to do something beautiful with it. Completely free, completely private.
 
-## Why creatives choose Huepick
+## What you'll actually do with Huepick
 
-- **Capture colors from the real world** by pointing your camera at anything inspiring and extracting up to 12 dominant colors in seconds. Take the guesswork out of color matching.
-- **Palettes grounded in color theory** using six classical harmony types: complementary, analogous, triadic, split complementary, tetradic, and monochromatic.
-- **Tailored to your project** with context-aware palettes for Home Decor, Fashion, Makeup, Car Interior, and UI & Graphic Design, each with meaningful color roles.
-- **Works offline, stays private** with all processing on your device. No Wi-Fi needed, no accounts, no analytics, no ads.
-
-## Features
-
-- **Smart Color Extraction** that identifies up to 12 dominant colors from any photo
-- **6 Harmony Types** applying classical color theory automatically to your extracted colors
-- **5 Real-World Scenarios** generating palettes with context-appropriate roles
-- **Save & Edit** to build a gallery of palettes, edit individual colors, or create custom palettes from scratch
-- **Copy Hex Codes** by tapping any swatch to copy its hex code instantly
-- **Photo Context** so palettes remember where and when the photo was taken for you to revisit your inspiration
+- **Find the perfect palette in seconds.** Point your camera at a sunset, a mural, a fabric swatch — Huepick pulls out the dominant colors and builds harmonious palettes you can use immediately. No more eyeballing hex codes or guessing what goes together.
+- **Get palettes designed for your project.** Whether you're decorating a room, planning an outfit, choosing makeup shades, or designing a UI, Huepick generates palettes with labeled color roles that make sense for your context.
+- **Transform your photos into art.** Five creative tools — Isolate, Duotone, Pixelize, Blur, and Glitch — let you turn any photo into something shareable using colors from your own palette.
+- **Keep everything private and offline.** Your photos never leave your device. No sign-ups, no cloud uploads, no tracking. Works anywhere, even without Wi-Fi.
 
 ## How it works
 
-1. **Take or pick a photo** with no account needed
-2. **Extract colors** as Huepick identifies up to 12 dominant colors
-3. **Generate palettes** by choosing a harmony type and use case
-4. **Save and copy** to keep palettes in your gallery and copy hex codes
+1. **Snap or choose a photo** — no account, no setup
+2. **See your palette** — up to 12 dominant colors extracted instantly
+3. **Pick a style** — choose from 6 color harmony types and 5 real-world scenarios
+4. **Play** — transform your photo with creative tools tailored to your palette
+5. **Save and share** — export palettes, download creations, or share directly
 
-[Download on the App Store](https://apps.apple.com/app/huepick)
+## What's inside
+
+**Analyze** — Extract colors, generate palettes across six harmony types, and explore your palette with detailed visual breakdowns. The app even recommends which creative tools will work best with your specific photo.
+
+**Playground** — Five tools to transform your image:
+- *Isolate* — spotlight specific colors while the rest goes monochrome
+- *Duotone* — remap your image to two bold tones
+- *Pixelize* — convert to geometric pixel art
+- *Blur* — add soft, dreamy focus
+- *Glitch* — apply digital distortion for an edgy look
+
+**Gallery** — Every creation you save lives here. Re-edit, download, or share anytime.
+
+## Built for people who care about color
+
+Designers picking brand palettes. Photographers exploring mood boards. DIY decorators matching paint swatches. Makeup artists testing tone combinations. Developers building accessible interfaces. Anyone who's ever thought "I love that color — what is it?"
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
 
 ## Compatibility
 
 iOS 18.6 or later · iPhone and iPad
 
-## Your privacy
+## Your photos stay yours
 
-Your photos never leave your device. No accounts, no analytics, no ads.
+No accounts. No analytics. No ads. Everything runs on your device.
 
 Read our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/huepick/).
 

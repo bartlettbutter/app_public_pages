@@ -5,27 +5,44 @@ app_icon: /app_public_pages/marketing-url/barkpedia/icon_Barkpedia.png
 app_description: "Identify any dog breed instantly. Free, offline, and private."
 ---
 
-# See a dog you love? Know the breed in seconds.
+# Every dog has a story. Discover it instantly.
 
-Barkpedia identifies dog breeds instantly using on-device machine learning. Just point your camera or pick a photo from your library and get an accurate match. No internet required, no account to create, and no cost. Ever.
+Snap a photo, identify the breed, and unlock everything there is to know — temperament, history, fun facts, and more. No internet needed, no sign-up, no cost.
 
-## Why dog lovers choose Barkpedia
+## Why 100,000+ dog lovers choose Barkpedia
 
-Whether you're at the park, visiting a shelter, or meeting a friend's new puppy, Barkpedia satisfies your curiosity in seconds. Just snap a photo and instantly learn the breed, personality traits, and backstory of any dog you meet.
+- **Instant answers, anywhere.** Identify 147 breeds in seconds — at the park, the shelter, or your couch. Works completely offline.
+- **Your privacy comes first.** Photos never leave your device. No accounts, no tracking, no ads. Period.
+- **Free forever.** No subscriptions, no in-app purchases, no paywalls. Download once and enjoy every feature.
+- **Learn, explore, and play.** Go beyond identification with detailed breed profiles, an interactive world map, and two quiz games that test (and grow) your dog knowledge.
 
-It works anywhere, even without Wi-Fi, because everything runs on your device. There are no subscriptions, no in-app purchases, and no ads. Download it once and use it forever. And since your photos never leave your phone, your privacy is always protected.
+## What you can do with Barkpedia
 
-## More to discover
+### Scan and identify
 
-Barkpedia goes beyond identification. Every breed you scan comes with a detailed profile including temperament, size, energy level, origin, history, and photos, covering all 147 breeds. You can save your scan results to Favorites and revisit them anytime, all stored locally on your device.
+Point your camera at any dog — or pick a photo from your library — and get a breed match with a confidence score. Every result links to a rich breed profile with temperament, size, energy level, origin story, and photos.
 
-For a challenge, try the Breed Quiz. Each round has 10 questions where you guess the breed from a photo and four choices. Think you know your Shiba from your Akita? Put your knowledge to the test and earn reward titles. Or play Dog Trivia, true-or-false rounds mixing real dog facts with plausible myths to see how well you really know dogs.
+### Save your favorites
+
+Love a breed? Save your scan results and revisit them anytime. Everything is stored locally on your device.
+
+### Explore breeds around the world
+
+Search 147 breeds by name, or browse an interactive world map organized by country of origin. Tap a pin to discover which breeds come from that region and dive into their profiles.
+
+### Challenge yourself
+
+Put your breed knowledge to the test with two game modes:
+
+- **Breed Quiz** — Guess the breed from a photo. 10 questions, four choices, earn reward titles.
+- **Dog Trivia** — True or false? 10 rounds of real facts mixed with clever myths.
 
 ## How it works
 
-1. **Open the app** and you're ready in seconds, no sign-up needed
-2. **Snap a photo** of any dog, or choose one from your library
-3. **Get your result** including the breed name, confidence score, and a detailed breed profile
+1. **Open Barkpedia** — ready in seconds, no account needed
+2. **Snap or choose a photo** of any dog
+3. **See your result** — breed name, confidence score, and full profile
+4. **Keep exploring** — search breeds, browse the map, or play Quiz and Trivia
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 

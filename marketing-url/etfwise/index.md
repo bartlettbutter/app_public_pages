@@ -35,7 +35,7 @@ Tap any ETF for comprehensive insight:
 3. **Browse today's picks** across seven categories
 4. **Tap any ETF** for deep analysis, sentiment, and AI-powered insights
 
-[Download on the App Store](https://apps.apple.com/us/app/etfwise/id6762496354)
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
 
 ## Compatibility
 

@@ -5,13 +5,25 @@ app_icon: /app_public_pages/privacy-policies/journeyfolio/icon_Journeyfolio.png
 app_description: "Privacy Policy"
 ---
 
+# Privacy Policy
+
 **Effective Date:** May 18, 2026
 
 Journeyfolio is a paid iOS application that helps you plan and organize trips. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
 
 ## The Short Version
 
-We collect no personal data. There are no accounts, no analytics, no tracking, and no ads. Your trip data stays entirely on your device with no cloud sync. The app does not access your GPS location or track your movements. Network requests are made only to fetch weather, flight info, and holiday data for destinations you add.
+| Question | Answer |
+|----------|--------|
+| Do you collect personal data? | No |
+| Are there accounts or logins? | No |
+| Is there tracking or analytics? | No |
+| Are there ads? | No |
+| Is my data sold or shared? | No |
+| Does the app track my GPS location? | No |
+| Can children use the app safely? | Yes |
+
+Your trip data stays entirely on your device with no cloud sync. Network requests are made only to fetch weather, flight info, and holiday data for destinations you add.
 
 ## What Data We Collect
 
@@ -60,11 +72,15 @@ Since Journeyfolio stores all data locally and collects nothing on our end, you 
 
 ## Children's Privacy
 
-Journeyfolio does not knowingly collect information from anyone, including children under 13. Because the app collects no personal data, it is safe for users of all ages.
+Journeyfolio does not knowingly collect information from anyone, including children under 13 (or the applicable age in your jurisdiction). Because the app collects no personal data, it is safe for users of all ages.
+
+## International Users
+
+Because Journeyfolio collects no personal data, no cross-border transfer of personal information occurs. Network requests to third-party services (weather, flight data, holidays) contain only destination-related information (city names, flight numbers, country codes) and no personal data or device identifiers regardless of your location.
 
 ## Changes to This Policy
 
-If we update this policy, the revised version will be posted on this page with an updated effective date.
+If we update this policy, the revised version will be posted on this page with an updated effective date. Continued use of the app after an update constitutes acceptance of the revised policy.
 
 ## Contact Us
 

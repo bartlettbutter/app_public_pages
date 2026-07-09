@@ -5,6 +5,8 @@ app_icon: /app_public_pages/support-url/etfwise/icon_ETFWise.png
 app_description: "Support"
 ---
 
+# How can we help?
+
 We're here to help you get the most out of ETFWise. Browse the answers below, or reach out directly if you can't find what you need.
 
 ## Getting Started
@@ -58,6 +60,10 @@ Yes. Use the search bar to find any ETF by ticker symbol or name. The search cov
 ### Is my data private?
 
 Yes. No accounts, no analytics, no tracking. Only ticker symbols are sent to financial data providers. See our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/etfwise/) for details.
+
+### What happens if I delete the app?
+
+Uninstalling ETFWise permanently removes all locally stored data, including cached recommendations, AI analysis, and your API key. Since there is no cloud backup, this cannot be undone.
 
 ## Troubleshooting
 

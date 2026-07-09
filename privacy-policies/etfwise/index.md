@@ -5,13 +5,25 @@ app_icon: /app_public_pages/privacy-policies/etfwise/icon_ETFWise.png
 app_description: "Privacy Policy"
 ---
 
+# Privacy Policy
+
 **Effective Date:** April 25, 2026
 
 ETFWise ("the App") is a free iOS application that provides daily ETF recommendations with live market data and on-device AI analysis. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
 
 ## The Short Version
 
-We collect no personal data. There are no accounts, no analytics, no tracking, and no ads. AI analysis runs entirely on your device and no prompts or outputs are sent to any server. The only data sent externally is ETF ticker symbols to fetch market data. Your Finnhub API key is stored securely on-device and sent only to Finnhub.
+| Question | Answer |
+|----------|--------|
+| Do you collect personal data? | No |
+| Are there accounts or logins? | No |
+| Is there tracking or analytics? | No |
+| Are there ads? | No |
+| Is my data sold or shared? | No |
+| Does AI analysis leave my device? | No |
+| Can children use the app safely? | Yes |
+
+The only data sent externally is ETF ticker symbols to fetch market data. Your Finnhub API key is stored securely on-device and sent only to Finnhub.
 
 ## What Data We Collect
 
@@ -65,11 +77,15 @@ Because ETFWise does not collect or store personal data on any server, there is 
 
 ## Children's Privacy
 
-ETFWise does not knowingly collect personal information from anyone, including children under 13. Because the app collects no personal data whatsoever, it complies with COPPA requirements.
+ETFWise does not knowingly collect personal information from anyone, including children under 13 (or the applicable age in your jurisdiction). Because the app collects no personal data whatsoever, it complies with COPPA requirements.
+
+## International Users
+
+Because ETFWise collects no personal data, no cross-border transfer of personal information occurs. Ticker symbol requests to financial data providers contain no personal data or device identifiers regardless of your location.
 
 ## Changes to This Policy
 
-If we update this policy, the revised version will be posted on this page with an updated effective date.
+If we update this policy, the revised version will be posted on this page with an updated effective date. Continued use of the app after an update constitutes acceptance of the revised policy.
 
 ## Contact Us
 

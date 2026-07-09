@@ -5,13 +5,25 @@ app_icon: /app_public_pages/privacy-policies/nekopedia/icon_Nekopedia.png
 app_description: "Privacy Policy"
 ---
 
+# Privacy Policy
+
 **Effective Date:** June 13, 2026
 
 Nekopedia ("the App") is a free iOS application that identifies cat breeds from photos. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
 
 ## The Short Version
 
-We collect no personal data. There are no accounts, no analytics, no tracking, and no ads. Your photos are processed entirely on your device and never leave it. Breed identification works completely offline. The only network requests the App makes are to fetch breed information, images, and game content for display.
+| Question | Answer |
+|----------|--------|
+| Do you collect personal data? | No |
+| Do my photos leave my device? | No |
+| Are there accounts or logins? | No |
+| Is there tracking or analytics? | No |
+| Are there ads? | No |
+| Is my data sold or shared? | No |
+| Can children use the app safely? | Yes |
+
+Your photos are processed entirely on your device and never leave it. Breed identification works completely offline. The only network requests the App makes are to fetch breed information, images, and game content for display.
 
 ## Data We Collect
 
@@ -19,7 +31,7 @@ None. We do not collect, store, or transmit any personal data. The App contains 
 
 ## Photos and Camera/Library Access
 
-The App requests camera and photo library permissions solely to let you photograph or select images of cats for breed identification. Photos you take or select are analyzed entirely on your device using on-device machine learning. Your photos are never uploaded to any server.
+The App requests camera and photo library permissions solely to let you photograph or select images of cats for breed identification. Photos you take or select are analyzed entirely on your device using on-device intelligence. Your photos are never uploaded to any server.
 
 ## Locally Stored Data
 
@@ -59,11 +71,15 @@ Since Nekopedia collects no personal data, there is no user data to access, expo
 
 ## Children's Privacy
 
-The App does not collect any information from anyone, including children under 13. Because no personal data is collected, the App is safe for users of all ages and complies with COPPA requirements.
+The App does not collect any information from anyone, including children under 13 (or the applicable age in your jurisdiction). Because no personal data is collected, the App is safe for users of all ages and complies with COPPA requirements.
+
+## International Users
+
+Because Nekopedia collects no personal data, no cross-border data transfer of personal information occurs. Content-fetch requests to third-party services (breed info, images, game content) contain no personal data or device identifiers regardless of your location.
 
 ## Changes to This Policy
 
-If we update this policy, the revised version will be posted on this page with an updated effective date.
+If we update this policy, the revised version will be posted on this page with an updated effective date. Continued use of the app after an update constitutes acceptance of the revised policy.
 
 ## Contact Us
 

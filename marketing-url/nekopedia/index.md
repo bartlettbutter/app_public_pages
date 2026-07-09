@@ -7,13 +7,14 @@ app_description: "Identify any cat breed instantly. Free, offline, and private."
 
 # What breed is that cat? Just point your camera.
 
-Nekopedia identifies cat breeds instantly using on-device machine learning. Snap a photo or pick one from your library and get a match from 48 recognized breeds in seconds. No internet needed, no account required, and completely free.
+Nekopedia identifies cat breeds instantly — snap a photo or pick one from your library and get a match from 48 recognized breeds in seconds. No internet needed, no account required, and completely free.
 
 ## Why cat lovers choose Nekopedia
 
-Whether you're at a café, visiting a shelter, or meeting a friend's new kitten, Nekopedia satisfies your curiosity in seconds. Just snap a photo and instantly learn the breed, personality traits, and backstory of any cat you meet.
-
-It works anywhere, even without Wi-Fi, because everything runs on your device. There are no subscriptions, no in-app purchases, and no ads. Download it once and use it forever. And since your photos never leave your phone, your privacy is always protected.
+- **Instant answers, anywhere.** Identify 48 breeds in seconds — at a café, the shelter, or your couch. Works completely offline, even without Wi-Fi.
+- **Your privacy comes first.** Photos never leave your device. No accounts, no tracking, no ads. Period.
+- **Free forever.** No subscriptions, no in-app purchases, no paywalls. Download once and enjoy every feature.
+- **Learn, explore, and play.** Go beyond identification with detailed breed profiles, an interactive world map, and quiz games that test (and grow) your cat knowledge.
 
 ## More to discover
 

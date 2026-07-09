@@ -16,8 +16,6 @@ Stop juggling screenshots, spreadsheets, and scattered notes. Journeyfolio bring
 - **Zero friction to start** with no account, no sign-up. Open the app and start building your trip in seconds.
 - **Pay once, own it forever** as a single purchase with no subscriptions, no ads, and no upsells.
 
-[Download on the App Store](https://apps.apple.com/us/app/journeyfolio/id6762172188)
-
 ## Plan multi-city trips your way
 
 - **Day-by-day itineraries** to organize destinations, activities, notes, and timing for each day
@@ -57,6 +55,8 @@ Seven activity categories keep every detail organized:
 2. **Build your itinerary** by adding flights, hotels, restaurants, and activities day by day
 3. **Stay informed** by checking live weather, verifying flights, and seeing public holidays
 4. **Travel with confidence** knowing you can access everything offline, anytime
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
 ## Compatibility
 

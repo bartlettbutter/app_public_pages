@@ -5,6 +5,8 @@ app_icon: /app_public_pages/support-url/journeyfolio/icon_Journeyfolio.png
 app_description: "Support"
 ---
 
+# How can we help?
+
 We're here to help you get the most out of Journeyfolio. Browse the answers below, or reach out directly if you can't find what you need.
 
 ## Getting Started

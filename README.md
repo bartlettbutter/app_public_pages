@@ -18,6 +18,20 @@ Free dog breed identifier. Point your camera at any dog and get a breed match in
 
 ---
 
+### FormulaLens
+
+Free cosmetic ingredient scanner. Photograph any product's ingredient list and instantly see what each ingredient does — no internet needed, no account required.
+
+**Features:** Instant ingredient scanning via OCR, 13 product categories, color-coded function labels (moisturizing, antioxidant, sun protection, and more), key/unexpected ingredient markers, product comparison with shared/unique analysis, ingredient detail links to INCIDecoder, COSMILE Europe, and EWG Skin Deep.
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
+
+- [Marketing](https://bartlettbutter.github.io/app_public_pages/marketing-url/formulalens/)
+- [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/formulalens/)
+- [Support](https://bartlettbutter.github.io/app_public_pages/support-url/formulalens/)
+
+---
+
 ### ETFWise
 
 Daily ETF recommendations with live market data, news sentiment, prediction markets, and on-device AI analysis. No subscriptions, no ads.

@@ -5,13 +5,15 @@ app_icon: /app_public_pages/support-url/nekopedia/icon_Nekopedia.png
 app_description: "Support"
 ---
 
+# How can we help?
+
 We're here to help you get the most out of Nekopedia. Browse the answers below, or reach out directly if you can't find what you need.
 
 ## Getting Started
 
 ### How does breed identification work?
 
-Nekopedia uses on-device machine learning to analyze your photo and identify the cat breed. All processing happens locally on your device, so your photos are never uploaded anywhere.
+Nekopedia uses on-device intelligence to analyze your photo and identify the cat breed. All processing happens locally on your device, so your photos are never uploaded anywhere.
 
 ### Do I need an internet connection?
 
@@ -42,6 +44,10 @@ After scanning a cat, tap the heart icon on the result card to save it. Your sav
 ### How do I delete saved favorites?
 
 To remove all app data, delete Nekopedia from your device. All locally stored data is removed automatically when the app is uninstalled.
+
+### What happens if I delete the app?
+
+Uninstalling Nekopedia permanently removes all saved favorites and scan history from your device. Since there is no cloud backup or sync, this cannot be undone.
 
 ### How do I use the Explore tab?
 

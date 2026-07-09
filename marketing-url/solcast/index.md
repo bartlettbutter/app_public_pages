@@ -5,50 +5,54 @@ app_icon: /app_public_pages/marketing-url/solcast/icon_Solcast.png
 app_description: "Real-time weather with personalized lifestyle guidance, tailored to your day."
 ---
 
-# Weather that tells you what to do, not just what it is.
+# Know exactly how to dress, plan, and protect your day.
 
-Solcast turns raw forecasts into personalized, actionable guidance. It tells you what to wear, what to watch out for, and how to plan your day. Free, no ads, no subscriptions.
+Solcast is a free weather app that goes beyond the forecast. It tells you what to wear, when to bring an umbrella, and how to keep your family comfortable — all personalized to your life and delivered in plain language.
 
-## Why people switch to Solcast
+No ads. No subscriptions. No accounts. Just open and go.
 
-- **Skip the guesswork** and get plain language advice instead of decoding numbers. Solcast tells you when to grab sunscreen, pack an umbrella, or keep the kids in extra layers.
-- **Personalized to your life** with 11 settings that let you dial in your temperature sensitivity, dressing style, allergy triggers, household members, and more. Every recommendation adapts instantly.
-- **Private by design** because all recommendations are computed on your device. No accounts, no analytics, no tracking, no ads. Your location is used only to fetch weather and is never stored on any server.
-- **Completely free** with no in app purchases, no subscriptions, and no ads. Ever.
+## What makes Solcast different
 
-## What you get
+- **Answers, not numbers.** Instead of decoding humidity percentages and UV indices yourself, Solcast gives you clear action items: "Apply SPF 50 before lunch," "Pack rain gear for the kids," or "Walk your dog after sunset when pavement cools."
+- **Personalized to how you live.** Dial in your sensitivities, dressing style, and household (kids, pets, cars) and every recommendation adapts instantly. The advice a migraine-prone parent sees is different from what an outdoor runner sees.
+- **Stays ahead of your day.** Solcast detects when weather shifts between morning, afternoon, and evening — so you'll know to bring a layer for later or leave the umbrella at home after noon.
+- **100% private.** Everything is computed on your device. No sign-up, no tracking, no data collection. Your location is used only to fetch weather and is never stored.
 
-- **16 Lifestyle Indices** covering UV and SPF, flu risk, allergy, air quality, comfort, hydration, and more, all translated into clear action items
-- **Outfit Recommendations** with daily clothing picks across tops, bottoms, outerwear, footwear, and accessories, matched to your dressing style and the day's conditions
-- **Today's Briefing** as a glanceable card with up to 6 plain language action items tailored to your personal settings. Detects weather shifts between morning, afternoon, and evening so you know when conditions change throughout the day. Also shows national holiday reminders when relevant.
-- **7 Day Forecast** showing temperature, wind, UV, precipitation, air quality, and pollen at a glance
-- **Multi Location** supporting up to 10 saved locations you can switch between instantly
+## At a glance
 
-## Built for real life
+- **Daily Briefing** — up to 6 personalized action items, including holiday reminders for 100+ countries
+- **Outfit Picks** — what to wear today across tops, outerwear, footwear, accessories, and gear for kids and pets
+- **Hourly Strip** — scroll through the next 24 hours to plan around rain, UV spikes, or temperature drops
+- **16 Lifestyle Indices** — UV, SPF, allergy, air quality, hydration, comfort, flu risk, and more
+- **7-Day Forecast** — temperature, wind, UV, precipitation, air quality, and pollen in one view
+- **Multi-Location** — save up to 10 cities, each shown in its local timezone
 
-- **Parents** get reminders about kids' sunscreen, rain boots, and extra layers
-- **Pet owners** know when it's safe for walks, with paw protection alerts and storm warnings
-- **Allergy sufferers** receive pollen and air quality alerts calibrated to their sensitivity
-- **Migraine prone users** get pressure and altitude based headache warnings
-- **Outdoor exercisers** see optimal workout timing based on conditions
-- **Anyone who hates overthinking what to wear** gets a clear answer every morning
+## Built for your household
+
+**Parents** — sun protection reminders, cold-weather layering tips, and hydration alerts for kids, grounded in pediatric health guidelines.
+
+**Pet owners** — paw-safe walk timing, storm stress warnings, and cooling suggestions informed by veterinary research.
+
+**Allergy & migraine sufferers** — pollen alerts, air quality monitoring, and altitude-based headache warnings calibrated to your sensitivity level.
+
+**Commuters & drivers** — traffic conditions, car wash timing, and driving safety tips based on current weather.
 
 ## Get started in seconds
 
-1. **Launch** with no account needed and no sign up
-2. **Allow location** or search for a city manually
-3. **See your personalized dashboard** as weather, briefing, outfit, and indices load automatically
-4. **Fine tune in Settings** where changes apply instantly
+1. Launch — no account needed
+2. Allow location or search for a city
+3. See your personalized dashboard immediately
+4. Fine-tune preferences anytime in Settings
 
-[Download on the App Store](https://apps.apple.com/us/app/solcast/id6763927556)
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
 ## Compatibility
 
-iOS 18.0 or later · iPadOS 18.0 or later · iPhone and iPad
+iPhone and iPad · iOS 18.0 or later · iPadOS 18.0 or later
 
-## Your privacy, protected
+## Privacy first
 
-No accounts. No analytics. No ads. Your location is used only to fetch weather and is never stored on any server.
+No accounts. No analytics. No ads. Your location is used only to fetch weather and is never stored on any server. All personalization stays on your device.
 
 Read our full [Privacy Policy](https://bartlettbutter.github.io/app_public_pages/privacy-policies/solcast/).
 
